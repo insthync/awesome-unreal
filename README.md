@@ -2,10 +2,11 @@
 A categorized collection of awesome opensource Unreal Engine 4 repos
 
 - [Controller](#controller)
-- [Game Environment](#game environment)
+- [Database Connector](#database-connector)
+- [Game Environment](#game-environment)
 - [Graphics](#graphics)
-- [Graphics Compute Plugins](#Graphics Compute Plugins)
-- [Machine learning](#machine learning)
+- [Graphics Compute Plugins](#graphics-compute-plugins)
+- [Machine Learning](#machine-learning)
 - [Mobile](#mobile)
 - [Networking](#networking)
 - [Scripting](#scripting)
@@ -18,6 +19,10 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [myo-ue4](https://github.com/getnamo/myo-ue4) - Myo Plugin for Unreal Engine 4
 * [Swipe](https://github.com/getsetgames/Swipe) - A plugin for Unreal Engine 4 that exposes swipes on mobile devices as events in blueprint
 
+## Database Connector
+* [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
+* [SQLite3UE4](https://github.com/KhArtNJava/SQLite3UE4) - SQLite3 Database Plugin for Unreal Engine 4
+
 ## Game Environment
 * [OceanProject](https://github.com/UE4-OceanProject/OceanProject) - An Ocean Simulation project for Unreal Engine 4
 * [VoxelPlugin](https://github.com/Phyronnaz/VoxelPlugin) - Voxel plugin for Unreal Engine
@@ -27,12 +32,13 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 ## Graphics
 * [CelShader](https://github.com/antidamage/CelShader) - Advanced CelShader project for Unreal Engine 4
 * [GhostMeshPlugin](https://github.com/NoahZuo/GhostMeshPlugin) - This is a UE4 plugin that can create ghost mesh in Unreal Engine 4
+* [CensoredUE4](https://github.com/BitReign/CensoredUE4) - World space area censoring solution for Unreal Engine 4. It is using blueprint actor for censoring and can be attached to any other blueprint actor like characters
 
 ## Graphics Compute Plugins
 * [unrealcv](https://github.com/unrealcv/unrealcv) - UnrealCV: Connecting Computer Vision to Unreal Engine
 * [OpenCL.uplugin](https://github.com/kwonoh/OpenCL.uplugin) - OpenCL Plugin for Unreal Engine 4
 
-## Machine learning
+## Machine Learning
 * [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) - TensorFlow plugin for Unreal Engine 4
 
 ## Mobile
@@ -56,6 +62,16 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [React-UMG](https://github.com/ncsoft/React-UMG) - A React renderer for Unreal Motion Graphics With Unreal.js
 * [Noesis/UE4Plugin](https://github.com/Noesis/UE4Plugin) - NoesisGUI Integration to UE4
 * [UMG-MoveableWindow](https://github.com/insthync/UMG-MoveableWindow)
+* [VRUMGPlugin](https://github.com/mitchemmc/VRUMGPlugin) - A compatability layer between UE4 UMG and VR
+* [MeshWidgets](https://github.com/skeskinen/MeshWidgets) - UE 4.13 plugin for UMG & Slate widgets on StaticMesh surface
+* [UMG-ResizableWidget](https://github.com/MWadstein/UMG-ResizableWidget) - Resizable Widget for UMG for Unreal Engine 4
+* [AnimatedCrosshairsUE4](https://github.com/BitReign/AnimatedCrosshairsUE4) - Animated Crosshairs for Unreal Engine 4 provides 17 ready to use animated UMG widgets including demo scene to test their combination
+* [FastSwitcher](https://github.com/gameDNAstudio/FastSwitcher) - Fast Switcher UMG for Unreal Engine 4 loads only the needed widget
+* [Unreal-UMG-3DObjectInWidget](https://github.com/Tolc/Unreal-UMG-3DObjectInWidget) - A simple Unreal Engine 4 project (precisely 4.7.4) showing how to render a 3D object/mesh in a UMG widget
+* [UE4GamepadUMG](https://github.com/EverNewJoy/UE4GamepadUMG) - Unreal Engine 4 gamepad plugin so you can use a gamepad like a mouse in UMG
+* [VaTexAtlas](https://github.com/ufna/VaTexAtlas) - Simple way to use texture atlases for Unreal Engine 4 UMG
+* [ParagonUIPrototyping](https://github.com/roman-dzieciol/ParagonUIPrototyping) - Paragon UI Prototyping using UE4.11 UMG
 
 ## Utilities
 * [ZipUtility Plugin](https://github.com/getnamo/ZipUtility-ue4) - Event driven 7zip utility plugin for Unreal Engine 4
+* [VictoryPlugin](https://github.com/EverNewJoy/VictoryPlugin) - Rama's Victory BP Plugin
