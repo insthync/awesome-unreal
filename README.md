@@ -71,6 +71,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [UE4GamepadUMG](https://github.com/EverNewJoy/UE4GamepadUMG) - Unreal Engine 4 gamepad plugin so you can use a gamepad like a mouse in UMG
 * [VaTexAtlas](https://github.com/ufna/VaTexAtlas) - Simple way to use texture atlases for Unreal Engine 4 UMG
 * [ParagonUIPrototyping](https://github.com/roman-dzieciol/ParagonUIPrototyping) - Paragon UI Prototyping using UE4.11 UMG
+* [BLUI](https://github.com/AaronShea/BLUI) - Rich HTML UI engine for UE4
 
 ## Utilities
 * [ZipUtility Plugin](https://github.com/getnamo/ZipUtility-ue4) - Event driven 7zip utility plugin for Unreal Engine 4
