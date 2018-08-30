@@ -4,6 +4,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Controller](#controller)
 - [Database Connector](#database-connector)
 - [Game Environment](#game-environment)
+- [Gameplay](#gameplay)
 - [Graphics](#graphics)
 - [Graphics Compute Plugins](#graphics-compute-plugins)
 - [Machine Learning](#machine-learning)
@@ -28,6 +29,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [VoxelPlugin](https://github.com/Phyronnaz/VoxelPlugin) - Voxel plugin for Unreal Engine
 * [StreetMap](https://github.com/ue4plugins/StreetMap) - Import OpenStreetMap data into Unreal Engine 4
 * [RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent) - Unreal Engine 4 plugin component for rendering runtime generated content
+
+## Gameplay
+* [UE4-CustomGravityPlugin](https://github.com/mhousse1247/UE4-CustomGravityPlugin) - Unreal Engine 4 : Custom Gravity Plugin
 
 ## Graphics
 * [CelShader](https://github.com/antidamage/CelShader) - Advanced CelShader project for Unreal Engine 4
