@@ -32,6 +32,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Gameplay
 * [UE4-CustomGravityPlugin](https://github.com/mhousse1247/UE4-CustomGravityPlugin) - Unreal Engine 4 : Custom Gravity Plugin
+* [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) - Smooth voxel terrain plugin
 
 ## Graphics
 * [CelShader](https://github.com/antidamage/CelShader) - Advanced CelShader project for Unreal Engine 4
