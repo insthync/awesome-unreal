@@ -1,6 +1,7 @@
 # awesome-ue4
 A categorized collection of awesome opensource Unreal Engine 4 repos
 
+- [AI](#ai)
 - [Controller](#controller)
 - [Database Connector](#database-connector)
 - [Game Environment](#game-environment)
@@ -14,6 +15,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [VR](#vr)
 - [UI](#ui)
 - [Utilities](#utilities)
+
+## AI
+* [BTUtilityPlugin](https://github.com/kamrann/BTUtilityPlugin) - Extension to engine behavior tree system, adding utility-based selection nodes - Plugin version
 
 ## Controller
 * [LeapUnreal](https://github.com/leapmotion/leapunreal) - Leap Motion SDK for the Unreal Engine
