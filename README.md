@@ -3,6 +3,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 - [AI](#ai)
 - [Controller](#controller)
+- [Pawn](#pawn)
 - [Database Connector](#database-connector)
 - [Game Environment](#game-environment)
 - [Gameplay](#gameplay)
@@ -23,6 +24,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [LeapUnreal](https://github.com/leapmotion/leapunreal) - Leap Motion SDK for the Unreal Engine
 * [myo-ue4](https://github.com/getnamo/myo-ue4) - Myo Plugin for Unreal Engine 4
 * [Swipe](https://github.com/getsetgames/Swipe) - A plugin for Unreal Engine 4 that exposes swipes on mobile devices as events in blueprint
+
+## Pawn
+* [Pawn](https://github.com/BoredEngineer/MMT_Plugin) - Machinery Modelling Toolkit (Plugin for UE4)
 
 ## Database Connector
 * [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
