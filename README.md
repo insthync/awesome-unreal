@@ -90,3 +90,4 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [ZipUtility Plugin](https://github.com/getnamo/ZipUtility-ue4) - Event driven 7zip utility plugin for Unreal Engine 4
 * [VictoryPlugin](https://github.com/EverNewJoy/VictoryPlugin) - Rama's Victory BP Plugin
 * [RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent) - Unreal Engine 4 plugin component for rendering runtime generated content
+* [ServerRecast](https://github.com/darkwere/ServerRecast) - UE4 plugin for navmesh export
