@@ -67,6 +67,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [Unreal.js](https://github.com/ncsoft/Unreal.js) - Unreal.js: Javascript runtime built for UnrealEngine 4
 * [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) - Embed Python in Unreal Engine 4
 * [SkookumScript-UnrealEngine](https://github.com/AgogLabs/SkookumScript-UnrealEngine) - SkookumScript - the scripting language for superpowered game development
+* [sluaunreal](https://github.com/Tencent/sluaunreal) - lua dev plugin for unreal engine 4
 
 ## VR
 * [OSVR-Unreal](https://github.com/OSVR/OSVR-Unreal) - OSVR plugin for Unreal Engine
