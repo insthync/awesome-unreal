@@ -61,7 +61,6 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [VaRest](https://github.com/ufna/VaRest) - REST API plugin for Unreal Engine 4 - we love restfull backend and JSON communications!
 * [socketio-client-ue4](https://github.com/getnamo/socketio-client-ue4) - socket.io client plugin for Unreal Engine 4
 * [UEWebsocket](https://github.com/feixuwu/UEWebsocket) - unreal engine 4 websocket plugin for both c++ and blueprint developer
-* [UE4MasterServer](https://github.com/RyroNZ/UE4MasterServer) - This is a plugin for Unreal Engine 4 that adds server registration, deregistration etc with a master server
 * [InfraworldRuntime](https://github.com/vizor-games/InfraworldRuntime) - A solution that enables Unreal Engine 4 to work with Google gRPC services from either C++ or Blueprints.
 
 ## Scripting
