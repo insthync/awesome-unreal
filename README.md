@@ -88,6 +88,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [VaTexAtlas](https://github.com/ufna/VaTexAtlas) - Simple way to use texture atlases for Unreal Engine 4 UMG
 * [ParagonUIPrototyping](https://github.com/roman-dzieciol/ParagonUIPrototyping) - Paragon UI Prototyping using UE4.11 UMG
 * [BLUI](https://github.com/AaronShea/BLUI) - Rich HTML UI engine for UE4
+* [UnrealImGui](https://github.com/segross/UnrealImGui) - Unreal plug-in that integrates Dear ImGui framework into Unreal Engine 4.
 
 ## Utilities
 * [ZipUtility Plugin](https://github.com/getnamo/ZipUtility-ue4) - Event driven 7zip utility plugin for Unreal Engine 4
@@ -95,3 +96,4 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent) - Unreal Engine 4 plugin component for rendering runtime generated content
 * [ServerRecast](https://github.com/darkwere/ServerRecast) - UE4 plugin for navmesh export
 * [HoudiniEngineForUnreal](https://github.com/sideeffects/HoudiniEngineForUnreal) - Houdini Engine for Unreal Engine is a plug-in that allows integration of Houdini technology into Unreal.
+* [Unreal-Library](https://github.com/EliotVU/Unreal-Library) - UE Explorer's library for parsing data from games built with the Unreal Engine.
