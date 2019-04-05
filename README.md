@@ -62,6 +62,8 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [socketio-client-ue4](https://github.com/getnamo/socketio-client-ue4) - socket.io client plugin for Unreal Engine 4
 * [UEWebsocket](https://github.com/feixuwu/UEWebsocket) - unreal engine 4 websocket plugin for both c++ and blueprint developer
 * [InfraworldRuntime](https://github.com/vizor-games/InfraworldRuntime) - A solution that enables Unreal Engine 4 to work with Google gRPC services from either C++ or Blueprints.
+* [udp-ue4](https://github.com/getnamo/udp-ue4) - Convenience UDP wrapper for Unreal Engine 4
+* [tcp-ue4](https://github.com/getnamo/tcp-ue4) - Convenience TCP wrapper for Unreal Engine 4
 
 ## Scripting
 * [Unreal.js](https://github.com/ncsoft/Unreal.js) - Unreal.js: Javascript runtime built for UnrealEngine 4
@@ -92,3 +94,4 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [VictoryPlugin](https://github.com/EverNewJoy/VictoryPlugin) - Rama's Victory BP Plugin
 * [RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent) - Unreal Engine 4 plugin component for rendering runtime generated content
 * [ServerRecast](https://github.com/darkwere/ServerRecast) - UE4 plugin for navmesh export
+* [HoudiniEngineForUnreal](https://github.com/sideeffects/HoudiniEngineForUnreal) - Houdini Engine for Unreal Engine is a plug-in that allows integration of Houdini technology into Unreal.
