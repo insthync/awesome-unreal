@@ -56,6 +56,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Mobile
 * [MobileUtils](https://github.com/gameDNAstudio/MobileUtils) - A plugin for Unreal Engine 4 that lets you integrate mobile utilities into your project
+* [UnrealEngine4-EZ-Mobile-Ads](https://github.com/feixuwu/UnrealEngine4-EZ-Mobile-Ads) - One line code(or blueprint) Integrates Google AdMob and other ad networks to unreal engine 4 for iOS & Android
 
 ## Networking
 * [VaRest](https://github.com/ufna/VaRest) - REST API plugin for Unreal Engine 4 - we love restfull backend and JSON communications!
