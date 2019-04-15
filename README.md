@@ -64,6 +64,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [InfraworldRuntime](https://github.com/vizor-games/InfraworldRuntime) - A solution that enables Unreal Engine 4 to work with Google gRPC services from either C++ or Blueprints.
 * [udp-ue4](https://github.com/getnamo/udp-ue4) - Convenience UDP wrapper for Unreal Engine 4
 * [tcp-ue4](https://github.com/getnamo/tcp-ue4) - Convenience TCP wrapper for Unreal Engine 4
+* [socketcluster-client-ue4](https://github.com/ziicreater/socketcluster-client-ue4) - UE4 client for socketcluster framework in node.js
 
 ## Scripting
 * [Unreal.js](https://github.com/ncsoft/Unreal.js) - Unreal.js: Javascript runtime built for UnrealEngine 4
