@@ -31,6 +31,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 ## Database Connector
 * [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
 * [SQLite3UE4](https://github.com/KhArtNJava/SQLite3UE4) - SQLite3 Database Plugin for Unreal Engine 4
+* [UEFireBase](https://github.com/feixuwu/UEFireBase) - this is a firebase basic plugin for unreal engine 4 mobile developer, both c++ and blueprint supported
 
 ## Game Environment
 * [OceanProject](https://github.com/UE4-OceanProject/OceanProject) - An Ocean Simulation project for Unreal Engine 4
