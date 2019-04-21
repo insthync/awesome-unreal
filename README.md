@@ -5,6 +5,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Controller](#controller)
 - [Pawn](#pawn)
 - [Database Connector](#database-connector)
+- [Example Blueprint](#example-blueprint)
 - [Game Environment](#game-environment)
 - [Gameplay](#gameplay)
 - [Graphics](#graphics)
