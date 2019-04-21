@@ -33,6 +33,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [SQLite3UE4](https://github.com/KhArtNJava/SQLite3UE4) - SQLite3 Database Plugin for Unreal Engine 4
 * [UEFireBase](https://github.com/feixuwu/UEFireBase) - this is a firebase basic plugin for unreal engine 4 mobile developer, both c++ and blueprint supported
 
+## Example Blueprint
+* [MenuTemplateSP](https://github.com/deathclonic/MenuTemplateSP) - This is my open source single player menu system. It's not perfect but it works and it's all in blueprint.
+
 ## Game Environment
 * [OceanProject](https://github.com/UE4-OceanProject/OceanProject) - An Ocean Simulation project for Unreal Engine 4
 * [VoxelPlugin](https://github.com/Phyronnaz/VoxelPlugin) - Voxel plugin for Unreal Engine
