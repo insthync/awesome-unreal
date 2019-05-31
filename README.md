@@ -43,6 +43,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [StreetMap](https://github.com/ue4plugins/StreetMap) - Import OpenStreetMap data into Unreal Engine 4
 * [RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent) - Unreal Engine 4 plugin component for rendering runtime generated content
 * [Greebler](https://github.com/alexismorin/Greebler) - UE4 and Unity plugin to automatically add rubble in the nooks and crannies of your scene
+* [cashgenUE](https://github.com/midgen/cashgenUE) - Runtime Procedural Terrain Generator for UnrealEngine
 
 ## Gameplay
 * [UE4-CustomGravityPlugin](https://github.com/mhousse1247/UE4-CustomGravityPlugin) - Unreal Engine 4 : Custom Gravity Plugin
