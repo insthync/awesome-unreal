@@ -109,3 +109,4 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [HoudiniEngineForUnreal](https://github.com/sideeffects/HoudiniEngineForUnreal) - Houdini Engine for Unreal Engine is a plug-in that allows integration of Houdini technology into Unreal.
 * [Unreal-Library](https://github.com/EliotVU/Unreal-Library) - UE Explorer's library for parsing data from games built with the Unreal Engine.
 * [ProjectExodus](https://github.com/NegInfinity/ProjectExodus) - Project Exodus - Unity to Unreal scene/project transfer tool.
+* [SuperluminalPlugin](https://github.com/kitelightning/SuperluminalPlugin) - UE4 Plugin for Superluminal Profiler
