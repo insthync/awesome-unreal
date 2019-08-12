@@ -4,6 +4,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [AI](#ai)
 - [Controller](#controller)
 - [Pawn](#pawn)
+- [Plugin](#plugin)
 - [Database Connector](#database-connector)
 - [Example Blueprint](#example-blueprint)
 - [Game Environment](#game-environment)
@@ -28,6 +29,11 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Pawn
 * [Pawn](https://github.com/BoredEngineer/MMT_Plugin) - Machinery Modelling Toolkit (Plugin for UE4)
+
+## Plugin
+* [PsWebServer](https://github.com/PushkinStudio/PsWebServer) - Civet web server integration plugin for Unreal Engine 4
+* [PsReplayKit](https://github.com/PushkinStudio/PsReplayKit) - Unreal Engine 4 plugin for iOS to record or stream video from the screen, and audio from the app and microphone
+* [PsFacebookMobile](https://github.com/PushkinStudio/PsFacebookMobile) - Just a simple Unreal Engine 4 integration of Facebook authorization for mobile devices
 
 ## Database Connector
 * [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
