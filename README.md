@@ -34,6 +34,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [PsWebServer](https://github.com/PushkinStudio/PsWebServer) - Civet web server integration plugin for Unreal Engine 4
 * [PsReplayKit](https://github.com/PushkinStudio/PsReplayKit) - Unreal Engine 4 plugin for iOS to record or stream video from the screen, and audio from the app and microphone
 * [PsFacebookMobile](https://github.com/PushkinStudio/PsFacebookMobile) - Just a simple Unreal Engine 4 integration of Facebook authorization for mobile devices
+* [UE4GameLiftClientSDK](https://github.com/YetiTech-Studios/UE4GameLiftClientSDK) - Gamelift Client SDK for Unreal Engine 4
 
 ## Database Connector
 * [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
@@ -117,3 +118,4 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [Unreal-Library](https://github.com/EliotVU/Unreal-Library) - UE Explorer's library for parsing data from games built with the Unreal Engine.
 * [ProjectExodus](https://github.com/NegInfinity/ProjectExodus) - Project Exodus - Unity to Unreal scene/project transfer tool.
 * [SuperluminalPlugin](https://github.com/kitelightning/SuperluminalPlugin) - UE4 Plugin for Superluminal Profiler
+* [UE4-Binary-Builder](https://github.com/ryanjon2040/UE4-Binary-Builder) - An application designed to create installed Unreal Engine builds (aka Rocket builds) from Unreal Engine GitHub source.
