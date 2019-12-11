@@ -35,6 +35,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [PsReplayKit](https://github.com/PushkinStudio/PsReplayKit) - Unreal Engine 4 plugin for iOS to record or stream video from the screen, and audio from the app and microphone
 * [PsFacebookMobile](https://github.com/PushkinStudio/PsFacebookMobile) - Just a simple Unreal Engine 4 integration of Facebook authorization for mobile devices
 * [UE4GameLiftClientSDK](https://github.com/YetiTech-Studios/UE4GameLiftClientSDK) - Gamelift Client SDK for Unreal Engine 4
+* [acl-ue4-plugin](https://github.com/nfrechette/acl-ue4-plugin) - The official Animation Compression Library Unreal Engine 4 plugin
 
 ## Database Connector
 * [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
