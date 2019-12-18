@@ -121,3 +121,4 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [ProjectExodus](https://github.com/NegInfinity/ProjectExodus) - Project Exodus - Unity to Unreal scene/project transfer tool.
 * [SuperluminalPlugin](https://github.com/kitelightning/SuperluminalPlugin) - UE4 Plugin for Superluminal Profiler
 * [UE4-Binary-Builder](https://github.com/ryanjon2040/UE4-Binary-Builder) - An application designed to create installed Unreal Engine builds (aka Rocket builds) from Unreal Engine GitHub source.
+* [prefabricator-ue4](https://github.com/coderespawn/prefabricator-ue4) - Prefabricator - Prefab plugin for Unreal Engine 4
