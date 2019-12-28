@@ -127,3 +127,4 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 ## Tools
 * [Retargeting Mixamo Animation Tool](http://terribilisstudio.fr/converter)
 * [Mr-Mannequins-Tools](https://github.com/Jim-Kroovy/Mr-Mannequins-Tools) - An add-on for Blender 2.8+ that enables export and import of animations and character meshes to and from UE4 without the need for re-targeting within Unreal Engine.
+* [optick](https://github.com/bombomby/optick) - C++ Profiler For Games 
