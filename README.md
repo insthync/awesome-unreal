@@ -123,6 +123,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [SuperluminalPlugin](https://github.com/kitelightning/SuperluminalPlugin) - UE4 Plugin for Superluminal Profiler
 * [UE4-Binary-Builder](https://github.com/ryanjon2040/UE4-Binary-Builder) - An application designed to create installed Unreal Engine builds (aka Rocket builds) from Unreal Engine GitHub source.
 * [prefabricator-ue4](https://github.com/coderespawn/prefabricator-ue4) - Prefabricator - Prefab plugin for Unreal Engine 4
+* [WhatsMyPublicIP-ue4-plugin](https://github.com/alexhajdu/WhatsMyPublicIP-ue4-plugin) - In case you need to get your public IP - this can help. C++ and Blueprints
 
 ## Tools
 * [Retargeting Mixamo Animation Tool](http://terribilisstudio.fr/converter)
