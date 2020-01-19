@@ -39,7 +39,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [acl-ue4-plugin](https://github.com/nfrechette/acl-ue4-plugin) - The official Animation Compression Library Unreal Engine 4 plugin
 * [MMT_Plugin](https://github.com/BoredEngineer/MMT_Plugin) -  This plugin provides some basic means to add custom physics code in blueprints, which can be executed during physics sub-stepping. This repository contains only plugin binary for x64 and source code.
 * [Dialogue System](https://gitlab.com/NotYetGames/DlgSystem) - The Dialogue System Plugin allows you to create simple as well as multi-branch dialogoues with the help of a graph editor.
-* [UE4GameJoltAPI](https://github.com/Ogniok/UE4GameJoltAPI) - This plugin allows you to use GameJolt's Game API to unlock achievements and post highscores to your GameJolt Page 
+* [UE4GameJoltAPI](https://github.com/Ogniok/UE4GameJoltAPI) - A project including a plugin that allows you to use GameJolt's Game API to unlock achievements and post highscores to your GameJolt Page.
 
 ## Database Connector
 * [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
