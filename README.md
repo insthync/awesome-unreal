@@ -37,6 +37,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [PsFacebookMobile](https://github.com/PushkinStudio/PsFacebookMobile) - Just a simple Unreal Engine 4 integration of Facebook authorization for mobile devices
 * [UE4GameLiftClientSDK](https://github.com/YetiTech-Studios/UE4GameLiftClientSDK) - Gamelift Client SDK for Unreal Engine 4
 * [acl-ue4-plugin](https://github.com/nfrechette/acl-ue4-plugin) - The official Animation Compression Library Unreal Engine 4 plugin
+* [MMT_Plugin](https://github.com/BoredEngineer/MMT_Plugin) -  This plugin provides some basic means to add custom physics code in blueprints, which can be executed during physics sub-stepping. This repository contains only plugin binary for x64 and source code.
 
 ## Database Connector
 * [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
