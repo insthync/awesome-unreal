@@ -15,6 +15,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Mobile](#mobile)
 - [Networking](#networking)
 - [Scripting](#scripting)
+- [Serializing](#serializing)
 - [VR](#vr)
 - [UI](#ui)
 - [Utilities](#utilities)
@@ -41,7 +42,6 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [Dialogue System](https://gitlab.com/NotYetGames/DlgSystem) - The Dialogue System Plugin allows you to create simple as well as multi-branch dialogoues with the help of a graph editor.
 * [UE4GameJoltAPI](https://github.com/Ogniok/UE4GameJoltAPI) - A project including a plugin that allows you to use GameJolt's Game API to unlock achievements and post highscores to your GameJolt Page.
 * [Unreal Engine 4 - GameJolt API Plugin](https://gitlab.com/f2p-entertainment/plugins/ue4/gj/ue4-gamejoltapi) - This plugin adds Blueprint nodes to use the GameJolt API
-* [FreeXml](https://gitlab.com/f2p-entertainment/plugins/ue4/xmlparser) - A simple plugin exposing Unreal's xml parsing capabilities to Blueprints
 
 ## Database Connector
 * [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
@@ -97,6 +97,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [sluaunreal](https://github.com/Tencent/sluaunreal) - lua dev plugin for unreal engine 4
 * [USharp](https://github.com/pixeltris/USharp) - C# plugin for Unreal Engine 4
 * [UnLua](https://github.com/Tencent/UnLua) - A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE4
+
+## Serializing
+* [FreeXml](https://gitlab.com/f2p-entertainment/plugins/ue4/xmlparser) - A simple plugin exposing Unreal's xml parsing capabilities to Blueprints
 
 ## VR
 * [OSVR-Unreal](https://github.com/OSVR/OSVR-Unreal) - OSVR plugin for Unreal Engine
