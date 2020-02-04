@@ -42,6 +42,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [Dialogue System](https://gitlab.com/NotYetGames/DlgSystem) - The Dialogue System Plugin allows you to create simple as well as multi-branch dialogoues with the help of a graph editor.
 * [UE4GameJoltAPI](https://github.com/Ogniok/UE4GameJoltAPI) - A project including a plugin that allows you to use GameJolt's Game API to unlock achievements and post highscores to your GameJolt Page.
 * [Unreal Engine 4 - GameJolt API Plugin](https://gitlab.com/f2p-entertainment/plugins/ue4/gj/ue4-gamejoltapi) - This plugin adds Blueprint nodes to use the GameJolt API
+* [KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) - Simple fake Physics for UnrealEngine4
 
 ## Database Connector
 * [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
