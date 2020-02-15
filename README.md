@@ -89,7 +89,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [udp-ue4](https://github.com/getnamo/udp-ue4) - Convenience UDP wrapper for Unreal Engine 4
 * [tcp-ue4](https://github.com/getnamo/tcp-ue4) - Convenience TCP wrapper for Unreal Engine 4
 * [socketcluster-client-ue4](https://github.com/ziicreater/socketcluster-client-ue4) - UE4 client for socketcluster framework in node.js
-* [UEWebsocket](https://github.com/feixuwu/UEWebsocket) - Unreal engine 4 websocket plugin for both c++ and blueprint developer
+* [UE4MasterServer](https://github.com/RyroNZ/UE4MasterServer) - This is a plugin for Unreal Engine 4 that adds server registration, deregistration etc with a master server.
 
 ## Scripting
 * [Unreal.js](https://github.com/ncsoft/Unreal.js) - Unreal.js: Javascript runtime built for UnrealEngine 4
