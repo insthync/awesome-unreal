@@ -16,6 +16,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Networking](#networking)
 - [Scripting](#scripting)
 - [Serializing](#serializing)
+- [Sound](#sound)
 - [VR](#vr)
 - [UI](#ui)
 - [Utilities](#utilities)
@@ -101,6 +102,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Serializing
 * [FreeXml](https://gitlab.com/f2p-entertainment/plugins/ue4/xmlparser) - A simple plugin exposing Unreal's xml parsing capabilities to Blueprints
+
+## Sound
+* [ArthursAudioBPs](https://github.com/ArthurBarthur/ArthursAudioBPs) - UE4 project with various examples of audio-related stuff like visualizers, generators etc.
 
 ## VR
 * [OSVR-Unreal](https://github.com/OSVR/OSVR-Unreal) - OSVR plugin for Unreal Engine
