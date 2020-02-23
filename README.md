@@ -138,6 +138,8 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [UE4-Binary-Builder](https://github.com/ryanjon2040/UE4-Binary-Builder) - An application designed to create installed Unreal Engine builds (aka Rocket builds) from Unreal Engine GitHub source.
 * [prefabricator-ue4](https://github.com/coderespawn/prefabricator-ue4) - Prefabricator - Prefab plugin for Unreal Engine 4
 * [WhatsMyPublicIP-ue4-plugin](https://github.com/alexhajdu/WhatsMyPublicIP-ue4-plugin) - In case you need to get your public IP - this can help. C++ and Blueprints
+* [WindowCapture2D](https://github.com/ayumax/WindowCapture2D) - Library for capturing and displaying windows in real time with UnrealEngine
+
 
 ## Tools
 * [Retargeting Mixamo Animation Tool](http://terribilisstudio.fr/converter)
