@@ -20,7 +20,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [VR](#vr)
 - [UI](#ui)
 - [Utilities](#utilities)
-- [Text Formatter/Parser](#text-formatter-parser)
+- [Text Formatter/Parser](#text-formatterparser)
 - [Tools](#tools)
 
 ## AI
