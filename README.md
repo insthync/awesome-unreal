@@ -20,6 +20,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [VR](#vr)
 - [UI](#ui)
 - [Utilities](#utilities)
+- [Text Formatter/Parser](#text-formatter/parser)
 - [Tools](#tools)
 
 ## AI
@@ -140,6 +141,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [WhatsMyPublicIP-ue4-plugin](https://github.com/alexhajdu/WhatsMyPublicIP-ue4-plugin) - In case you need to get your public IP - this can help. C++ and Blueprints
 * [WindowCapture2D](https://github.com/ayumax/WindowCapture2D) - Library for capturing and displaying windows in real time with UnrealEngine
 
+## Text Formatter/Parser
+* [EasyJsonParser](https://github.com/ayumax/EasyJsonParser) - json parse library for unreal engine
+* [EasyXMLParser](https://github.com/ayumax/EasyXMLParser) - xml parse library for unreal engine
 
 ## Tools
 * [Retargeting Mixamo Animation Tool](http://terribilisstudio.fr/converter)
