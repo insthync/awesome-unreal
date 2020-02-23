@@ -91,6 +91,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [tcp-ue4](https://github.com/getnamo/tcp-ue4) - Convenience TCP wrapper for Unreal Engine 4
 * [socketcluster-client-ue4](https://github.com/ziicreater/socketcluster-client-ue4) - UE4 client for socketcluster framework in node.js
 * [UE4MasterServer](https://github.com/RyroNZ/UE4MasterServer) - This is a plugin for Unreal Engine 4 that adds server registration, deregistration etc with a master server.
+* [ObjectDeliverer](https://github.com/ayumax/ObjectDeliverer) - ObjectDeliverer is a data transmission / reception library for Unreal Engine (C ++, Blueprint)
 
 ## Scripting
 * [Unreal.js](https://github.com/ncsoft/Unreal.js) - Unreal.js: Javascript runtime built for UnrealEngine 4
