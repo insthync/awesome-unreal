@@ -140,6 +140,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [prefabricator-ue4](https://github.com/coderespawn/prefabricator-ue4) - Prefabricator - Prefab plugin for Unreal Engine 4
 * [WhatsMyPublicIP-ue4-plugin](https://github.com/alexhajdu/WhatsMyPublicIP-ue4-plugin) - In case you need to get your public IP - this can help. C++ and Blueprints
 * [WindowCapture2D](https://github.com/ayumax/WindowCapture2D) - Library for capturing and displaying windows in real time with UnrealEngine
+* [UnrealFastNoise](https://github.com/midgen/UnrealFastNoise) - Modular, Blueprint-friendly noise generation for UE4
 
 ## Text Formatter/Parser
 * [EasyJsonParser](https://github.com/ayumax/EasyJsonParser) - json parse library for unreal engine
