@@ -68,6 +68,8 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) - Smooth voxel terrain plugin
 * [VaFogOfWar](https://github.com/ufna/VaFogOfWar) - A clear and simple solution of Fog of War for Unreal Engine 4
 * [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) - https://github.com/ProjectBorealis/PBCharacterMovement
+* [GASDocumentation](https://github.com/tranek/GASDocumentation) - My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
+* [GASShooter](https://github.com/tranek/GASShooter) - Advanced FPS/TPS Sample Project for Unreal Engine 4's GameplayAbilitySystem plugin
 
 ## Graphics
 * [CelShader](https://github.com/antidamage/CelShader) - Advanced CelShader project for Unreal Engine 4
