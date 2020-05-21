@@ -98,6 +98,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [UE4MasterServer](https://github.com/RyroNZ/UE4MasterServer) - This is a plugin for Unreal Engine 4 that adds server registration, deregistration etc with a master server.
 * [ObjectDeliverer](https://github.com/ayumax/ObjectDeliverer) - ObjectDeliverer is a data transmission / reception library for Unreal Engine (C ++, Blueprint)
 
+## Online Services
+* [UE4_EOS_Plugin](https://github.com/gaslightgames/UE4_EOS_Plugin) - A plugin and sample project, built for Unreal Engine 4, that implements the Epic Online Services SDK
+
 ## Scripting
 * [Unreal.js](https://github.com/ncsoft/Unreal.js) - Unreal.js: Javascript runtime built for UnrealEngine 4
 * [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) - Embed Python in Unreal Engine 4
