@@ -161,3 +161,4 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Documents
 * [GASDocumentation](https://github.com/tranek/GASDocumentation) - My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
+* [Game Development & Unreal Engine Programming Guide](https://github.com/ikrima/gamedevguide) - Game Development & Unreal Engine Programming Guide https://bebylon.dev/
