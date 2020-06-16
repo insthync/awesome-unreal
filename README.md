@@ -108,6 +108,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [sluaunreal](https://github.com/Tencent/sluaunreal) - lua dev plugin for unreal engine 4
 * [USharp](https://github.com/pixeltris/USharp) - C# plugin for Unreal Engine 4
 * [UnLua](https://github.com/Tencent/UnLua) - A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE4
+* [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine 4 .NET Core integration
 
 ## Serializing
 * [FreeXml](https://gitlab.com/f2p-entertainment/plugins/ue4/xmlparser) - A simple plugin exposing Unreal's xml parsing capabilities to Blueprints
