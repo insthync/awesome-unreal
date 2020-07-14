@@ -70,6 +70,10 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) - https://github.com/ProjectBorealis/PBCharacterMovement
 * [GASDocumentation](https://github.com/tranek/GASDocumentation) - My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
 * [GASShooter](https://github.com/tranek/GASShooter) - Advanced FPS/TPS Sample Project for Unreal Engine 4's GameplayAbilitySystem plugin
+* [Inventory + Equipment System](https://github.com/angelhodar/OpenRPG_Inventory) - Generic and fully featured multipurpose inventory container and equipment system for Unreal Engine 4
+* [Quests](https://github.com/angelhodar/OpenRPG_Quest) - Efficient and rich featured quests system for Unreal Engine 4
+* [Horizontal 360 Radar](https://github.com/angelhodar/OpenRPG_RadarSystem) - Horizontal 360º rich featured radar system, typically seen in games like Skyrim, for Unreal Engine 4
+* [Stats + Attributes](https://github.com/angelhodar/OpenRPG_Stats) - A powerful stats, attributes, leveling system and much more for Unreal Engine 4!
 
 ## Graphics
 * [CelShader](https://github.com/antidamage/CelShader) - Advanced CelShader project for Unreal Engine 4
