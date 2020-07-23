@@ -55,7 +55,6 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 ## Database Connector
 * [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
 * [SQLite3UE4](https://github.com/KhArtNJava/SQLite3UE4) - SQLite3 Database Plugin for Unreal Engine 4
-* [UEFireBase](https://github.com/feixuwu/UEFireBase) - this is a firebase basic plugin for unreal engine 4 mobile developer, both c++ and blueprint supported
 
 ## Example Blueprint
 * [MenuTemplateSP](https://github.com/deathclonic/MenuTemplateSP) - This is my open source single player menu system. It's not perfect but it works and it's all in blueprint.
@@ -94,12 +93,10 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Mobile
 * [MobileUtils](https://github.com/gameDNAstudio/MobileUtils) - A plugin for Unreal Engine 4 that lets you integrate mobile utilities into your project
-* [UnrealEngine4-EZ-Mobile-Ads](https://github.com/feixuwu/UnrealEngine4-EZ-Mobile-Ads) - One line code(or blueprint) Integrates Google AdMob and other ad networks to unreal engine 4 for iOS & Android
 
 ## Networking
 * [VaRest](https://github.com/ufna/VaRest) - REST API plugin for Unreal Engine 4 - we love restfull backend and JSON communications!
 * [socketio-client-ue4](https://github.com/getnamo/socketio-client-ue4) - socket.io client plugin for Unreal Engine 4
-* [UEWebsocket](https://github.com/feixuwu/UEWebsocket) - unreal engine 4 websocket plugin for both c++ and blueprint developer
 * [InfraworldRuntime](https://github.com/vizor-games/InfraworldRuntime) - A solution that enables Unreal Engine 4 to work with Google gRPC services from either C++ or Blueprints.
 * [udp-ue4](https://github.com/getnamo/udp-ue4) - Convenience UDP wrapper for Unreal Engine 4
 * [tcp-ue4](https://github.com/getnamo/tcp-ue4) - Convenience TCP wrapper for Unreal Engine 4
