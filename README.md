@@ -5,6 +5,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Controller](#controller)
 - [Pawn](#pawn)
 - [Plugin](#plugin)
+- [Data Exporter](#data-exporter)
 - [Database Connector](#database-connector)
 - [Example Blueprint](#example-blueprint)
 - [Game Environment](#game-environment)
@@ -46,6 +47,10 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [UE4GameJoltAPI](https://github.com/Ogniok/UE4GameJoltAPI) - A project including a plugin that allows you to use GameJolt's Game API to unlock achievements and post highscores to your GameJolt Page.
 * [Unreal Engine 4 - GameJolt API Plugin](https://gitlab.com/f2p-entertainment/plugins/ue4/gj/ue4-gamejoltapi) - This plugin adds Blueprint nodes to use the GameJolt API
 * [KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) - Simple fake Physics for UnrealEngine4
+
+## Data Exporter
+* [ServerRecast](https://github.com/darkwere/ServerRecast) - UE4 plugin for navmesh export
+* [ue4-export-nav-data](https://github.com/hxhb/ue4-export-nav-data) - Export ue4 navigation data to outside.
 
 ## Database Connector
 * [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
@@ -118,6 +123,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Serializing
 * [FreeXml](https://gitlab.com/f2p-entertainment/plugins/ue4/xmlparser) - A simple plugin exposing Unreal's xml parsing capabilities to Blueprints
+* [ue4-protobuf](https://github.com/hxhb/ue4-protobuf) - This is an Unreal Engine 4 plugin that integrates Protobuf into the project without requiring you to add system PATH or anything else.
 
 ## Sound
 * [ArthursAudioBPs](https://github.com/ArthurBarthur/ArthursAudioBPs) - UE4 project with various examples of audio-related stuff like visualizers, generators etc.
@@ -145,7 +151,6 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [ZipUtility Plugin](https://github.com/getnamo/ZipUtility-ue4) - Event driven 7zip utility plugin for Unreal Engine 4
 * [VictoryPlugin](https://github.com/EverNewJoy/VictoryPlugin) - Rama's Victory BP Plugin
 * [RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent) - Unreal Engine 4 plugin component for rendering runtime generated content
-* [ServerRecast](https://github.com/darkwere/ServerRecast) - UE4 plugin for navmesh export
 * [HoudiniEngineForUnreal](https://github.com/sideeffects/HoudiniEngineForUnreal) - Houdini Engine for Unreal Engine is a plug-in that allows integration of Houdini technology into Unreal.
 * [Unreal-Library](https://github.com/EliotVU/Unreal-Library) - UE Explorer's library for parsing data from games built with the Unreal Engine.
 * [ProjectExodus](https://github.com/NegInfinity/ProjectExodus) - Project Exodus - Unity to Unreal scene/project transfer tool.
