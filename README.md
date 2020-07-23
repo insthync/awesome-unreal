@@ -102,6 +102,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [UE4MasterServer](https://github.com/RyroNZ/UE4MasterServer) - This is a plugin for Unreal Engine 4 that adds server registration, deregistration etc with a master server.
 * [ObjectDeliverer](https://github.com/ayumax/ObjectDeliverer) - ObjectDeliverer is a data transmission / reception library for Unreal Engine (C ++, Blueprint)
 * [UE4TcpSocketPlugin](https://github.com/CodeSpartan/UE4TcpSocketPlugin) - Tcp Socket Plugin facilitates communication with a TCP server in blueprints or in code.
+* [Socketer](https://github.com/How2Compute/Socketer) -- A TCP socket blueprint library for Unreal Engine 4!
 
 ## Online Services
 * [UE4_EOS_Plugin](https://github.com/gaslightgames/UE4_EOS_Plugin) - A plugin and sample project, built for Unreal Engine 4, that implements the Epic Online Services SDK
