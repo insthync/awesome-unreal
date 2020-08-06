@@ -106,6 +106,8 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [UE4TcpSocketPlugin](https://github.com/CodeSpartan/UE4TcpSocketPlugin) - Tcp Socket Plugin facilitates communication with a TCP server in blueprints or in code.
 * [Socketer](https://github.com/How2Compute/Socketer) -- A TCP socket blueprint library for Unreal Engine 4!
 * [UEWebsocket](https://github.com/kristjanvalur/UEWebsocket) - unreal engine 4 websocket plugin for both c++ and blueprint developer
+* [mqtt-utilities-unreal](https://github.com/NinevaStudios/mqtt-utilities-unreal) - MqttUtilities is a plugin for Unreal Engine intended to expose MQTT client functionality to blueprints
+* [ble-utilities-unreal](https://github.com/NinevaStudios/ble-utilities-unreal) - This is Unreal Engine plugin that allows to scan for BLE devices with Cycling Power service running, connect to one of them and subscribe for its notifications
 
 ## Online Services
 * [UE4_EOS_Plugin](https://github.com/gaslightgames/UE4_EOS_Plugin) - A plugin and sample project, built for Unreal Engine 4, that implements the Epic Online Services SDK
