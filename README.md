@@ -47,6 +47,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [UE4GameJoltAPI](https://github.com/Ogniok/UE4GameJoltAPI) - A project including a plugin that allows you to use GameJolt's Game API to unlock achievements and post highscores to your GameJolt Page.
 * [Unreal Engine 4 - GameJolt API Plugin](https://gitlab.com/f2p-entertainment/plugins/ue4/gj/ue4-gamejoltapi) - This plugin adds Blueprint nodes to use the GameJolt API
 * [KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) - Simple fake Physics for UnrealEngine4
+* [UnrealLive2D](https://github.com/Arisego/UnrealLive2D) - UE4 plugin for live2d model
 
 ## Data Exporter
 * [ServerRecast](https://github.com/darkwere/ServerRecast) - UE4 plugin for navmesh export
