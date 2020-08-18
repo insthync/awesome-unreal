@@ -79,7 +79,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [Quests](https://github.com/angelhodar/OpenRPG_Quest) - Efficient and rich featured quests system for Unreal Engine 4
 * [Horizontal 360 Radar](https://github.com/angelhodar/OpenRPG_RadarSystem) - Horizontal 360º rich featured radar system, typically seen in games like Skyrim, for Unreal Engine 4
 * [Stats + Attributes](https://github.com/angelhodar/OpenRPG_Stats) - A powerful stats, attributes, leveling system and much more for Unreal Engine 4!
-
+* [PsRealVehicle](https://github.com/PushkinStudio/PsRealVehicle) - PsRealVehicle is the plugin for Unreal Engine 4 with simple force-driven vehicle simulation.
 ## Graphics
 * [CelShader](https://github.com/antidamage/CelShader) - Advanced CelShader project for Unreal Engine 4
 * [GhostMeshPlugin](https://github.com/NoahZuo/GhostMeshPlugin) - This is a UE4 plugin that can create ghost mesh in Unreal Engine 4
