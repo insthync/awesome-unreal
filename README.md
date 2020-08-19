@@ -80,6 +80,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [Horizontal 360 Radar](https://github.com/angelhodar/OpenRPG_RadarSystem) - Horizontal 360º rich featured radar system, typically seen in games like Skyrim, for Unreal Engine 4
 * [Stats + Attributes](https://github.com/angelhodar/OpenRPG_Stats) - A powerful stats, attributes, leveling system and much more for Unreal Engine 4!
 * [PsRealVehicle](https://github.com/PushkinStudio/PsRealVehicle) - PsRealVehicle is the plugin for Unreal Engine 4 with simple force-driven vehicle simulation.
+
 ## Graphics
 * [CelShader](https://github.com/antidamage/CelShader) - Advanced CelShader project for Unreal Engine 4
 * [GhostMeshPlugin](https://github.com/NoahZuo/GhostMeshPlugin) - This is a UE4 plugin that can create ghost mesh in Unreal Engine 4
@@ -121,6 +122,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [USharp](https://github.com/pixeltris/USharp) - C# plugin for Unreal Engine 4
 * [UnLua](https://github.com/Tencent/UnLua) - A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE4
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine 4 .NET Core integration
+* [LuaMachine](https://github.com/rdeioris/LuaMachine) - Unreal Engine 4 Plugin for Lua APIs implementation
 
 ## Serializing
 * [FreeXml](https://gitlab.com/f2p-entertainment/plugins/ue4/xmlparser) - A simple plugin exposing Unreal's xml parsing capabilities to Blueprints
