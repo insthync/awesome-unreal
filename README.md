@@ -149,6 +149,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [ParagonUIPrototyping](https://github.com/roman-dzieciol/ParagonUIPrototyping) - Paragon UI Prototyping using UE4.11 UMG
 * [BLUI](https://github.com/AaronShea/BLUI) - Rich HTML UI engine for UE4
 * [UnrealImGui](https://github.com/segross/UnrealImGui) - Unreal plug-in that integrates Dear ImGui framework into Unreal Engine 4.
+* [ue4-uitween](https://github.com/benui-dev/ue4-uitween) - Unreal 4 UMG UI tweening library in C++
 
 ## Utilities
 * [ZipUtility Plugin](https://github.com/getnamo/ZipUtility-ue4) - Event driven 7zip utility plugin for Unreal Engine 4
