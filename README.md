@@ -123,6 +123,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [UnLua](https://github.com/Tencent/UnLua) - A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE4
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine 4 .NET Core integration
 * [LuaMachine](https://github.com/rdeioris/LuaMachine) - Unreal Engine 4 Plugin for Lua APIs implementation
+* [puerts](https://github.com/Tencent/puerts) - Write your game with TypeScript in the ue4 or unity
 
 ## Serializing
 * [FreeXml](https://gitlab.com/f2p-entertainment/plugins/ue4/xmlparser) - A simple plugin exposing Unreal's xml parsing capabilities to Blueprints
