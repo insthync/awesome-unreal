@@ -7,7 +7,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Plugin](#plugin)
 - [Data Exporter](#data-exporter)
 - [Database Connector](#database-connector)
-- [Example Blueprint](#example-blueprint)
+- [Effects](#Effects)
 - [Game Environment](#game-environment)
 - [Gameplay](#gameplay)
 - [Graphics](#graphics)
@@ -57,8 +57,8 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
 * [SQLite3UE4](https://github.com/KhArtNJava/SQLite3UE4) - SQLite3 Database Plugin for Unreal Engine 4
 
-## Example Blueprint
-* [MenuTemplateSP](https://github.com/deathclonic/MenuTemplateSP) - This is my open source single player menu system. It's not perfect but it works and it's all in blueprint.
+##  Effects
+* [UE4-AuroraEffect](https://github.com/Hideous/UE4-AuroraEffect) - A raymarched aurora borealis effect for Unreal 4
 
 ## Game Environment
 * [OceanProject](https://github.com/UE4-OceanProject/OceanProject) - An Ocean Simulation project for Unreal Engine 4
