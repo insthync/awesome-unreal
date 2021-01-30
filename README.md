@@ -49,6 +49,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) - Simple fake Physics for UnrealEngine4
 * [UnrealLive2D](https://github.com/Arisego/UnrealLive2D) - UE4 plugin for live2d model
 * [ArticyImporterForUnreal](https://github.com/ArticySoftware/ArticyImporterForUnreal) - Articy Importer plugin for the Unreal Engine 4.
+* [VRExpansionPlugin](https://github.com/mordentral/VRExpansionPlugin) - A UE4 VR framework
 
 ## Data Exporter
 * [ServerRecast](https://github.com/darkwere/ServerRecast) - UE4 plugin for navmesh export
