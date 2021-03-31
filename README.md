@@ -52,6 +52,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [ArticyImporterForUnreal](https://github.com/ArticySoftware/ArticyImporterForUnreal) - Articy Importer plugin for the Unreal Engine 4.
 * [VRExpansionPlugin](https://github.com/mordentral/VRExpansionPlugin) - A UE4 VR framework
 * [AdvancedSessionsPlugin](https://github.com/mordentral/AdvancedSessionsPlugin) - Advanced Sessions Plugin for UE4
+* [Cesium for Unreal](https://github.com/CesiumGS/cesium-unreal) - Bringing the 3D geospatial ecosystem to Unreal Engine
 
 ## Data Exporter
 * [ServerRecast](https://github.com/darkwere/ServerRecast) - UE4 plugin for navmesh export
