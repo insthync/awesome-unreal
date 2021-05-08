@@ -74,6 +74,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [Greebler](https://github.com/alexismorin/Greebler) - UE4 and Unity plugin to automatically add rubble in the nooks and crannies of your scene
 * [cashgenUE](https://github.com/midgen/cashgenUE) - Runtime Procedural Terrain Generator for UnrealEngine
 * [OpenLand](https://github.com/GameDev4K/unreal-open-land) - An OpenSource Landscape Auto Material
+* [DungeonGenerator](https://github.com/orfeasel/DungeonGenerator) - An Unreal Engine 4 Dungeon Generator
 
 ## Gameplay
 * [UE4-CustomGravityPlugin](https://github.com/mhousse1247/UE4-CustomGravityPlugin) - Unreal Engine 4 : Custom Gravity Plugin
