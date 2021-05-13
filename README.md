@@ -196,3 +196,5 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [GASDocumentation](https://github.com/tranek/GASDocumentation) - My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
 * [Game Development & Unreal Engine Programming Guide](https://github.com/ikrima/gamedevguide) - Game Development & Unreal Engine Programming Guide https://bebylon.dev/
 * [UE4-Plugin-Resources](https://github.com/Sythenz/UE4-Plugin-Resources) - A list of community resources for Slate, Graphs, and UE4 Plugin Development.
+* [UE4-CheatSheet](https://github.com/jbtronics/UE4-CheatSheet) - An Cheat Sheet for Unreal Engine 4 C++ programming, licensed under CC BY-NC-SA 4.0
+
