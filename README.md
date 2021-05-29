@@ -8,8 +8,10 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Data Exporter](#data-exporter)
 - [Database Connector](#database-connector)
 - [Effects](#Effects)
+- [Game Data](#game-data)
 - [Game Environment](#game-environment)
 - [Gameplay](#gameplay)
+- [Game Save](#game-save)
 - [Graphics](#graphics)
 - [Graphics Compute Plugins](#graphics-compute-plugins)
 - [Locomotion](#locomotion)
@@ -66,6 +68,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 ##  Effects
 * [UE4-AuroraEffect](https://github.com/Hideous/UE4-AuroraEffect) - A raymarched aurora borealis effect for Unreal 4
 
+## Game Data
+* [SUQS](https://github.com/sinbad/SUQS) - Steve's Unreal Quest System: data-driven quest system for UE4
+
 ## Game Environment
 * [OceanProject](https://github.com/UE4-OceanProject/OceanProject) - An Ocean Simulation project for Unreal Engine 4
 * [VoxelPlugin](https://github.com/Phyronnaz/VoxelPlugin) - Voxel plugin for Unreal Engine
@@ -88,6 +93,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [Horizontal 360 Radar](https://github.com/angelhodar/OpenRPG_RadarSystem) - Horizontal 360º rich featured radar system, typically seen in games like Skyrim, for Unreal Engine 4
 * [Stats + Attributes](https://github.com/angelhodar/OpenRPG_Stats) - A powerful stats, attributes, leveling system and much more for Unreal Engine 4!
 * [PsRealVehicle](https://github.com/PushkinStudio/PsRealVehicle) - PsRealVehicle is the plugin for Unreal Engine 4 with simple force-driven vehicle simulation.
+
+## Game Save
+* [SPUD](https://github.com/sinbad/SPUD) - Steve's Persistent Unreal Data library
 
 ## Graphics
 * [CelShader](https://github.com/antidamage/CelShader) - Advanced CelShader project for Unreal Engine 4
