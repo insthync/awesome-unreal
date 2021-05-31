@@ -107,7 +107,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [OpenCL.uplugin](https://github.com/kwonoh/OpenCL.uplugin) - OpenCL Plugin for Unreal Engine 4
 
 ## Locomotion
-* [ALSV4_CPP](https://github.com/dyanikoglu/ALSV4_CPP) - Performance optimized & replicated C++ port of Advanced Locomotion System V4 for Unreal Engine 4.26 with additional bug fixes
+* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 4.26 with additional bug fixes.
 
 ## Machine Learning
 * [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) - TensorFlow plugin for Unreal Engine 4
@@ -205,4 +205,4 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [Game Development & Unreal Engine Programming Guide](https://github.com/ikrima/gamedevguide) - Game Development & Unreal Engine Programming Guide https://bebylon.dev/
 * [UE4-Plugin-Resources](https://github.com/Sythenz/UE4-Plugin-Resources) - A list of community resources for Slate, Graphs, and UE4 Plugin Development.
 * [UE4-CheatSheet](https://github.com/jbtronics/UE4-CheatSheet) - An Cheat Sheet for Unreal Engine 4 C++ programming, licensed under CC BY-NC-SA 4.0
-
+* [unrealcpp](https://github.com/Harrison1/unrealcpp) - Unreal Engine 4 C++ examples
