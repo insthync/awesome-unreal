@@ -15,6 +15,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Graphics](#graphics)
 - [Graphics Compute Plugins](#graphics-compute-plugins)
 - [Locomotion](#locomotion)
+- [Localization](#localization)
 - [Machine Learning](#machine-learning)
 - [Mobile](#mobile)
 - [Networking](#networking)
@@ -105,6 +106,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 ## Graphics Compute Plugins
 * [unrealcv](https://github.com/unrealcv/unrealcv) - UnrealCV: Connecting Computer Vision to Unreal Engine
 * [OpenCL.uplugin](https://github.com/kwonoh/OpenCL.uplugin) - OpenCL Plugin for Unreal Engine 4
+
+## Localization
+* [UE4-BYGLocalization](https://github.com/BraceYourselfGames/UE4-BYGLocalization) - Simple CSV localization system for Unreal Engine 4
 
 ## Locomotion
 * [ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 4.26 with additional bug fixes.
