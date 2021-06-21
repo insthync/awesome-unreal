@@ -2,6 +2,7 @@
 A categorized collection of awesome opensource Unreal Engine 4 repos
 
 - [AI](#ai)
+- [Camera](#camera)
 - [Controller](#controller)
 - [Pawn](#pawn)
 - [Plugin](#plugin)
@@ -31,6 +32,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## AI
 * [BTUtilityPlugin](https://github.com/kamrann/BTUtilityPlugin) - Extension to engine behavior tree system, adding utility-based selection nodes - Plugin version
+
+## Camera
+* [Advanced-Camera-Manager](https://github.com/oivio/Advanced-Camera-Manager) - Advanced Player Camera Component
 
 ## Controller
 * [LeapUnreal](https://github.com/leapmotion/leapunreal) - Leap Motion SDK for the Unreal Engine
@@ -112,6 +116,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Locomotion
 * [ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 4.26 with additional bug fixes.
+* [ALS_Component](https://github.com/oivio/ALS_Component) - Based on ALSv4 this is Component
 
 ## Machine Learning
 * [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) - TensorFlow plugin for Unreal Engine 4
