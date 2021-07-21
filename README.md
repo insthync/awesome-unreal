@@ -157,6 +157,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 ## Serializing
 * [FreeXml](https://gitlab.com/f2p-entertainment/plugins/ue4/xmlparser) - A simple plugin exposing Unreal's xml parsing capabilities to Blueprints
 * [ue4-protobuf](https://github.com/hxhb/ue4-protobuf) - This is an Unreal Engine 4 plugin that integrates Protobuf into the project without requiring you to add system PATH or anything else.
+* [DataConfig](https://github.com/slowburn-dev/DataConfig) - Serialization framework for Unreal Engine Property System that just works!
 
 ## Sound
 * [ArthursAudioBPs](https://github.com/ArthurBarthur/ArthursAudioBPs) - UE4 project with various examples of audio-related stuff like visualizers, generators etc.
