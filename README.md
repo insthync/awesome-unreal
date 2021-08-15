@@ -61,6 +61,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [AdvancedSessionsPlugin](https://github.com/mordentral/AdvancedSessionsPlugin) - Advanced Sessions Plugin for UE4
 * [Cesium for Unreal](https://github.com/CesiumGS/cesium-unreal) - Bringing the 3D geospatial ecosystem to Unreal Engine
 * [AccelByte UE4 SDK](https://github.com/AccelByte/accelbyte-ue4-sdk) - AccelByte UE4 SDK is a plugin for Unreal Engine 4
+* [MindMaker](https://github.com/krumiaa/MindMaker) - MindMaker UE4 Machine Learning Toolkit
 
 ## Data Exporter
 * [ServerRecast](https://github.com/darkwere/ServerRecast) - UE4 plugin for navmesh export
@@ -120,6 +121,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Machine Learning
 * [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) - TensorFlow plugin for Unreal Engine 4
+* [tensorflow2-ue4-ar](https://github.com/Allysony/tensorflow2-ue4-ar) - Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23
 
 ## Mobile
 * [MobileUtils](https://github.com/gameDNAstudio/MobileUtils) - A plugin for Unreal Engine 4 that lets you integrate mobile utilities into your project
