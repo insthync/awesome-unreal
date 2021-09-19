@@ -17,6 +17,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Graphics Compute Plugins](#graphics-compute-plugins)
 - [Localization](#localization)
 - [Locomotion](#locomotion)
+- [Runtime Data Loader](#runtime-data-loader)
 - [Machine Learning](#machine-learning)
 - [Mobile](#mobile)
 - [Networking](#networking)
@@ -119,6 +120,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 4.26 with additional bug fixes.
 * [ALS_Component](https://github.com/oivio/ALS_Component) - Based on ALSv4 this is Component
 
+## Runtime Data Loader
+* [RuntimeMeshLoader](https://github.com/Chrizey91/RuntimeMeshLoader) - A pluging for Unreal Engine 4, which allows to import meshes during runtime.
+
 ## Machine Learning
 * [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) - TensorFlow plugin for Unreal Engine 4
 * [tensorflow2-ue4-ar](https://github.com/Allysony/tensorflow2-ue4-ar) - Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23
@@ -212,6 +216,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [Mr-Mannequins-Tools](https://github.com/Jim-Kroovy/Mr-Mannequins-Tools) - An add-on for Blender 2.8+ that enables export and import of animations and character meshes to and from UE4 without the need for re-targeting within Unreal Engine.
 * [optick](https://github.com/bombomby/optick) - C++ Profiler For Games 
 * [ue4-docker](https://github.com/adamrehn/ue4-docker) - Windows and Linux containers for Unreal Engine 4
+* [LocalizationUE4](https://github.com/rionix/LocalizationUE4) - Translation Editor for Unreal Engine 4
 
 ## Documents
 * [GASDocumentation](https://github.com/tranek/GASDocumentation) - My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
