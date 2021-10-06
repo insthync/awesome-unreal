@@ -160,6 +160,10 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine 4 .NET Core integration
 * [LuaMachine](https://github.com/rdeioris/LuaMachine) - Unreal Engine 4 Plugin for Lua APIs implementation
 * [puerts](https://github.com/Tencent/puerts) - Write your game with TypeScript in the ue4 or unity
+* [nimue4](https://github.com/pragmagic/nimue4) - Nim language integration for Unreal Engine 4
+* [kotlin-unreal](https://github.com/hiperbou/kotlin-unreal) - kotlin-unreal: Use the amazing Kotlin language with UnrealEngine 4
+* [Unreal.hx](https://github.com/proletariatgames/unreal.hx) - Unreal.hx: Haxe Integration for Unreal
+* [UnrealEngine-Angelscript](https://github.com/Hazelight/UnrealEngine-Angelscript) - Angelscript Integration for Unreal Engine (__Note:__ Private repository, due to being a direct fork of the Unreal Engine source code. In order to view the repository, you must join the Epic Games organization. Learn how to do so [here](https://www.unrealengine.com/en-US/ue4-on-github))
 
 ## Serializing
 * [FreeXml](https://gitlab.com/f2p-entertainment/plugins/ue4/xmlparser) - A simple plugin exposing Unreal's xml parsing capabilities to Blueprints
