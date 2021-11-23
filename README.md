@@ -213,6 +213,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [StevesUEHelpers](https://github.com/sinbad/StevesUEHelpers) - A plugin adding a bunch of common helper functionality that I use in my UE projects
 * [AsyncLoadingScreen](https://github.com/truong-bui/AsyncLoadingScreen) - Async Loading Screen is a free and open-source plugin for Unreal Engine. Async Loading Screen allows you to easily configure a Loading Screen System in the project settings, and automatically add a Loading Screen whenever you open a new level, without Level Streaming.
 * [global-event-system-ue4](https://github.com/getnamo/global-event-system-ue4) - A loosely coupled internal global event system (GES) plugin for the Unreal Engine. Aims to solve cross-map and cross-blueprint communication for reliable and inferable event flow.
+* [EnhancedCodeFlow](https://github.com/zompi2/UE4EnhancedCodeFlow) -  Drastically improves the quality of life during the implementation of game flow in C++.
 
 ## Text Editor Extensions
 * [sublime-unreal-snippets](https://github.com/awforsythe/sublime-unreal-snippets) - A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code.
