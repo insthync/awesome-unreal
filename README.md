@@ -117,6 +117,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Localization
 * [UE4-BYGLocalization](https://github.com/BraceYourselfGames/UE4-BYGLocalization) - Simple CSV localization system for Unreal Engine 4
+* [Easy Localization Tool](https://github.com/zompi2/UE4EasyLocalizationTool) - Introduces a way simpler method of localizing game by simply importing CSV file into engine's localization files.
 
 ## Locomotion
 * [ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 4.26 with additional bug fixes.
