@@ -178,6 +178,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## VR
 * [OSVR-Unreal](https://github.com/OSVR/OSVR-Unreal) - OSVR plugin for Unreal Engine
+* [MixedReality-UXTools-Unreal](https://github.com/microsoft/MixedReality-UXTools-Unreal) - UX tools and components for developing Mixed Reality applications in UE4.
 
 ## UI
 * [React-UMG](https://github.com/ncsoft/React-UMG) - A React renderer for Unreal Motion Graphics With Unreal.js
