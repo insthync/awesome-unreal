@@ -217,6 +217,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [global-event-system-ue4](https://github.com/getnamo/global-event-system-ue4) - A loosely coupled internal global event system (GES) plugin for the Unreal Engine. Aims to solve cross-map and cross-blueprint communication for reliable and inferable event flow.
 * [EnhancedCodeFlow](https://github.com/zompi2/UE4EnhancedCodeFlow) -  Drastically improves the quality of life during the implementation of game flow in C++.
 * [Ue4MarchingCubes](https://github.com/mikhomak/Ue4MarchingCubes) - 3D Perlin Noise using Marching cubes algorithm for Unreal Engine 4
+* [UE4-Node-Graph-Assistant](https://github.com/pdlogingithub/UE4-Node-Graph-Assistant) - A plugin to help you to create node graph faster and easier in unreal engine 4.
 
 ## Text Editor Extensions
 * [sublime-unreal-snippets](https://github.com/awforsythe/sublime-unreal-snippets) - A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code.
