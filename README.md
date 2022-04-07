@@ -15,10 +15,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Game Save](#game-save)
 - [Graphics](#graphics)
 - [Graphics Compute Plugins](#graphics-compute-plugins)
-- [Importer](#importer)
+- [Importer / Runtime Data Loader](#importer-runtime-data-loader)
 - [Localization](#localization)
 - [Locomotion](#locomotion)
-- [Runtime Data Loader](#runtime-data-loader)
 - [Machine Learning](#machine-learning)
 - [Mobile](#mobile)
 - [Networking](#networking)
@@ -117,10 +116,12 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [unrealcv](https://github.com/unrealcv/unrealcv) - UnrealCV: Connecting Computer Vision to Unreal Engine
 * [OpenCL.uplugin](https://github.com/kwonoh/OpenCL.uplugin) - OpenCL Plugin for Unreal Engine 4
 
-## Importer
+## Importer / Runtime Data Loader
+* [RuntimeFilesDownloader](https://github.com/gtreshchev/RuntimeFilesDownloader) - Runtime Files Downloader plugin for Unreal Engine. Downloading files over HTTP / HTTPS at runtime.
+* [RuntimeAudioImporter](https://github.com/gtreshchev/RuntimeAudioImporter) - Runtime Audio Importer plugin for Unreal Engine. Importing audio of various formats at runtime.
 * [ue4_runtimeimageloader](https://github.com/RaiaN/ue4_runtimeimageloader) - About
 Load images into Unreal at runtime without hitches
-* [RuntimeAudioImporter](https://github.com/gtreshchev/RuntimeAudioImporter) - Runtime Audio Importer plugin for Unreal Engine. Importing audio of various formats at runtime.
+* [RuntimeMeshLoader](https://github.com/Chrizey91/RuntimeMeshLoader) - A pluging for Unreal Engine 4, which allows to import meshes during runtime.
 
 ## Localization
 * [UE4-BYGLocalization](https://github.com/BraceYourselfGames/UE4-BYGLocalization) - Simple CSV localization system for Unreal Engine 4
@@ -129,10 +130,6 @@ Load images into Unreal at runtime without hitches
 ## Locomotion
 * [ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 4.26 with additional bug fixes.
 * [ALS_Component](https://github.com/oivio/ALS_Component) - Based on ALSv4 this is Component
-
-## Runtime Data Loader
-* [RuntimeMeshLoader](https://github.com/Chrizey91/RuntimeMeshLoader) - A pluging for Unreal Engine 4, which allows to import meshes during runtime.
-* [RuntimeFilesDownloader](https://github.com/gtreshchev/RuntimeFilesDownloader) - Runtime Files Downloader plugin for Unreal Engine. Downloading files over HTTP / HTTPS at runtime.
 
 ## Machine Learning
 * [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) - TensorFlow plugin for Unreal Engine 4
