@@ -15,7 +15,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Game Save](#game-save)
 - [Graphics](#graphics)
 - [Graphics Compute Plugins](#graphics-compute-plugins)
-- [Importer / Runtime Data Loader](#importer-runtime-data-loader)
+- [Importer / Runtime Data Loader](#importer--runtime-data-loader)
 - [Localization](#localization)
 - [Locomotion](#locomotion)
 - [Machine Learning](#machine-learning)
