@@ -74,7 +74,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
 * [SQLite3UE4](https://github.com/KhArtNJava/SQLite3UE4) - SQLite3 Database Plugin for Unreal Engine 4
 
-##  Effects
+## Effects
 * [UE4-AuroraEffect](https://github.com/Hideous/UE4-AuroraEffect) - A raymarched aurora borealis effect for Unreal 4
 * [NiagaraUIRenderer](https://github.com/SourySK/NiagaraUIRenderer) - Niagara UI Renderer | Free Plugin for Unreal Engine
 
@@ -132,6 +132,7 @@ Load images into Unreal at runtime without hitches
 
 ## Runtime Data Loader
 * [RuntimeMeshLoader](https://github.com/Chrizey91/RuntimeMeshLoader) - A pluging for Unreal Engine 4, which allows to import meshes during runtime.
+* [RuntimeFilesDownloader](https://github.com/gtreshchev/RuntimeFilesDownloader) - Runtime Files Downloader plugin for Unreal Engine. Downloading files over HTTP / HTTPS at runtime.
 
 ## Machine Learning
 * [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) - TensorFlow plugin for Unreal Engine 4
@@ -139,6 +140,7 @@ Load images into Unreal at runtime without hitches
 
 ## Mobile
 * [MobileUtils](https://github.com/gameDNAstudio/MobileUtils) - A plugin for Unreal Engine 4 that lets you integrate mobile utilities into your project
+* [AndroidNative](https://github.com/gtreshchev/AndroidNative) - Android Native plugin for Unreal Engine that makes it easy to call Java functions via JNI.
 
 ## Networking
 * [VaRest](https://github.com/ufna/VaRest) - REST API plugin for Unreal Engine 4 - we love restfull backend and JSON communications!
@@ -182,6 +184,7 @@ Load images into Unreal at runtime without hitches
 
 ## Sound
 * [ArthursAudioBPs](https://github.com/ArthurBarthur/ArthursAudioBPs) - UE4 project with various examples of audio-related stuff like visualizers, generators etc.
+* [AudioAnalysisTools](https://github.com/gtreshchev/AudioAnalysisTools) - Audio Analysis Tools plugin for Unreal Engine. Provides a variety of functions for analyzing audio data. Works in conjunction with the Runtime Audio Importer plugin.
 
 ## VR
 * [OSVR-Unreal](https://github.com/OSVR/OSVR-Unreal) - OSVR plugin for Unreal Engine
