@@ -116,6 +116,11 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [unrealcv](https://github.com/unrealcv/unrealcv) - UnrealCV: Connecting Computer Vision to Unreal Engine
 * [OpenCL.uplugin](https://github.com/kwonoh/OpenCL.uplugin) - OpenCL Plugin for Unreal Engine 4
 
+## Importer
+* [ue4_runtimeimageloader](https://github.com/RaiaN/ue4_runtimeimageloader) - About
+Load images into Unreal at runtime without hitches
+* [RuntimeAudioImporter](https://github.com/gtreshchev/RuntimeAudioImporter) - Runtime Audio Importer plugin for Unreal Engine. Importing audio of various formats at runtime.
+
 ## Localization
 * [UE4-BYGLocalization](https://github.com/BraceYourselfGames/UE4-BYGLocalization) - Simple CSV localization system for Unreal Engine 4
 * [Easy Localization Tool](https://github.com/zompi2/UE4EasyLocalizationTool) - Introduces a way simpler method of localizing game by simply importing CSV file into engine's localization files.
