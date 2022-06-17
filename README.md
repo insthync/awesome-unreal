@@ -103,6 +103,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [Stats + Attributes](https://github.com/angelhodar/OpenRPG_Stats) - A powerful stats, attributes, leveling system and much more for Unreal Engine 4!
 * [PsRealVehicle](https://github.com/PushkinStudio/PsRealVehicle) - PsRealVehicle is the plugin for Unreal Engine 4 with simple force-driven vehicle simulation.
 * [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) - UE4 Dark Souls inspired Camera Lock On / Targeting system plugin.
+* [WeaponTrace-Unreal](https://github.com/getnamo/WeaponTrace-Unreal) - WeaponTracing plugin for reliable melee combat.
 
 ## Game Save
 * [SPUD](https://github.com/sinbad/SPUD) - Steve's Persistent Unreal Data library
