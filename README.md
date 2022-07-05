@@ -2,6 +2,7 @@
 A categorized collection of awesome opensource Unreal Engine 4 repos
 
 - [AI](#ai)
+- [Anti Cheat](#anti-cheat)
 - [Camera](#camera)
 - [Controller](#controller)
 - [Pawn](#pawn)
@@ -21,6 +22,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Machine Learning](#machine-learning)
 - [Mobile](#mobile)
 - [Networking](#networking)
+- [Node](#node)
 - [Scripting](#scripting)
 - [Serializing](#serializing)
 - [Sound](#sound)
@@ -34,6 +36,10 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## AI
 * [BTUtilityPlugin](https://github.com/kamrann/BTUtilityPlugin) - Extension to engine behavior tree system, adding utility-based selection nodes - Plugin version
+
+## Anti Cheat
+* [SCUE4-Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE4-Plugin) - Secure-Client; Anti-Cheat Plugin for Unreal Engine 4.
+* [SCUE5-Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin) - SCUE updated to Unreal 5.
 
 ## Camera
 * [Advanced-Camera-Manager](https://github.com/oivio/Advanced-Camera-Manager) - Advanced Player Camera Component
@@ -156,6 +162,10 @@ Load images into Unreal at runtime without hitches
 * [ble-utilities-unreal](https://github.com/NinevaStudios/ble-utilities-unreal) - This is Unreal Engine plugin that allows to scan for BLE devices with Cycling Power service running, connect to one of them and subscribe for its notifications
 * [Fetch](https://github.com/GameDev4K/unreal-fetch) - A Simple HTTP client for Blueprints & JSON inspired by the Fetch API
 * [Smooth-Networked-Movement-Plugin](https://github.com/Reddy-dev/Smooth-Networked-Movement-Plugin)
+
+## Node
+* [Unreal-Magic-Nodes](https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes) - Custom Kismet Node System that enables C++ code to be written on Blueprint Graphs.
+* [Unreal-Magic-Nodes-CS](https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes-CS) - C# Magic Nodes
 
 ## Online Services
 * [UE4_EOS_Plugin](https://github.com/gaslightgames/UE4_EOS_Plugin) - A plugin and sample project, built for Unreal Engine 4, that implements the Epic Online Services SDK
