@@ -217,6 +217,7 @@ Load images into Unreal at runtime without hitches
 * [ue4-uitween](https://github.com/benui-dev/ue4-uitween) - Unreal 4 UMG UI tweening library in C++
 * [ue4-canvas-gui](https://github.com/MaddyOff/ue4-canvas-gui) - It's a simple Canvas GUI for Unreal Engine 4 with mouse operation
 * [FairyGUI-unreal](https://github.com/fairygui/FairyGUI-unreal) - A flexible UI framework for Unreal Engine
+* [MDFastBinding](https://github.com/DoubleDeez/MDFastBinding) - A versatile and performant alternative to property bindings for designer-friendly workflows in UE5.1+
 
 ## Utilities
 * [ZipUtility Plugin](https://github.com/getnamo/ZipUtility-ue4) - Event driven 7zip utility plugin for Unreal Engine 4
