@@ -36,6 +36,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## AI
 * [BTUtilityPlugin](https://github.com/kamrann/BTUtilityPlugin) - Extension to engine behavior tree system, adding utility-based selection nodes - Plugin version
+* [charisma-sdk-unreal](https://github.com/charisma-ai/charisma-sdk-unreal) - Charisma SDK for Unreal Engine 4.
 
 ## Anti Cheat
 * [SCUE4-Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE4-Plugin) - Secure-Client; Anti-Cheat Plugin for Unreal Engine 4.
@@ -96,6 +97,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [cashgenUE](https://github.com/midgen/cashgenUE) - Runtime Procedural Terrain Generator for UnrealEngine
 * [OpenLand](https://github.com/GameDev4K/unreal-open-land) - An OpenSource Landscape Auto Material
 * [DungeonGenerator](https://github.com/orfeasel/DungeonGenerator) - An Unreal Engine 4 Dungeon Generator
+* [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) - This is an Unreal Engine 4/5 plugin to generate procedural dungeon.
 
 ## Gameplay
 * [UE4-CustomGravityPlugin](https://github.com/mhousse1247/UE4-CustomGravityPlugin) - Unreal Engine 4 : Custom Gravity Plugin
@@ -163,6 +165,7 @@ Load images into Unreal at runtime without hitches
 * [ble-utilities-unreal](https://github.com/NinevaStudios/ble-utilities-unreal) - This is Unreal Engine plugin that allows to scan for BLE devices with Cycling Power service running, connect to one of them and subscribe for its notifications
 * [Fetch](https://github.com/GameDev4K/unreal-fetch) - A Simple HTTP client for Blueprints & JSON inspired by the Fetch API
 * [Smooth-Networked-Movement-Plugin](https://github.com/Reddy-dev/Smooth-Networked-Movement-Plugin)
+* [colyseus-unreal](https://github.com/charisma-ai/colyseus-unreal) - Colyseus Multiplayer SDK for Unreal Engine
 
 ## Node
 * [Unreal-Magic-Nodes](https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes) - Custom Kismet Node System that enables C++ code to be written on Blueprint Graphs.
