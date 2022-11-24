@@ -37,6 +37,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 ## AI
 * [BTUtilityPlugin](https://github.com/kamrann/BTUtilityPlugin) - Extension to engine behavior tree system, adding utility-based selection nodes - Plugin version
 * [charisma-sdk-unreal](https://github.com/charisma-ai/charisma-sdk-unreal) - Charisma SDK for Unreal Engine 4.
+* [Reasonable Planning AI](https://github.com/hollsteinm/ReasonablePlanningAI) - Reasonable Planning AI, Utility Reasoning with Goal Oriented Action Planning execution. Data driven with C++ and Blueprint Support.
 
 ## Anti Cheat
 * [SCUE4-Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE4-Plugin) - Secure-Client; Anti-Cheat Plugin for Unreal Engine 4.
