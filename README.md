@@ -189,6 +189,7 @@ Load images into Unreal at runtime without hitches
 * [Unreal.hx](https://github.com/proletariatgames/unreal.hx) - Unreal.hx: Haxe Integration for Unreal
 * [UnrealEngine-Angelscript](https://github.com/Hazelight/UnrealEngine-Angelscript) - Angelscript Integration for Unreal Engine (__Note:__ Private repository, due to being a direct fork of the Unreal Engine source code. In order to view the repository, you must join the Epic Games organization. Learn how to do so [here](https://www.unrealengine.com/en-US/ue4-on-github))
 * [SilvervineUE4Lua](https://github.com/devcat-studio/SilvervineUE4Lua) - A Lua Scripting Plugin for Unreal Engine 4
+* [unreal-rust](https://github.com/MaikKlein/unreal-rust) - Rust integration for Unreal Engine 5
 
 ## Serializing
 * [FreeXml](https://gitlab.com/f2p-entertainment/plugins/ue4/xmlparser) - A simple plugin exposing Unreal's xml parsing capabilities to Blueprints
