@@ -265,3 +265,4 @@ Load images into Unreal at runtime without hitches
 * [UE4-Plugin-Resources](https://github.com/Sythenz/UE4-Plugin-Resources) - A list of community resources for Slate, Graphs, and UE4 Plugin Development.
 * [UE4-CheatSheet](https://github.com/jbtronics/UE4-CheatSheet) - An Cheat Sheet for Unreal Engine 4 C++ programming, licensed under CC BY-NC-SA 4.0
 * [unrealcpp](https://github.com/Harrison1/unrealcpp) - Unreal Engine 4 C++ examples
+* [MassSample](https://github.com/Megafunk/MassSample) - Community Mass Sample
