@@ -184,6 +184,7 @@ Load images into Unreal at runtime without hitches
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine 4 .NET Core integration
 * [LuaMachine](https://github.com/rdeioris/LuaMachine) - Unreal Engine 4 Plugin for Lua APIs implementation
 * [puerts](https://github.com/Tencent/puerts) - Write your game with TypeScript in the ue4 or unity
+* [NimForUE](https://github.com/jmgomez/NimForUE) - Nim plugin for UE5 with native performance, hot reloading and full interop that sits between C++ and Blueprints.
 * [nimue4](https://github.com/pragmagic/nimue4) - Nim language integration for Unreal Engine 4
 * [kotlin-unreal](https://github.com/hiperbou/kotlin-unreal) - kotlin-unreal: Use the amazing Kotlin language with UnrealEngine 4
 * [Unreal.hx](https://github.com/proletariatgames/unreal.hx) - Unreal.hx: Haxe Integration for Unreal
