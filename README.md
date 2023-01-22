@@ -167,7 +167,6 @@ Load images into Unreal at runtime without hitches
 * [Fetch](https://github.com/GameDev4K/unreal-fetch) - A Simple HTTP client for Blueprints & JSON inspired by the Fetch API
 * [Smooth-Networked-Movement-Plugin](https://github.com/Reddy-dev/Smooth-Networked-Movement-Plugin)
 * [colyseus-unreal](https://github.com/charisma-ai/colyseus-unreal) - Colyseus Multiplayer SDK for Unreal Engine
-* [RedTalaria](https://github.com/cdpred/RedTalaria) - an Unreal Engine plugin providing a set of Hermes endpoints
 
 ## Node
 * [Unreal-Magic-Nodes](https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes) - Custom Kismet Node System that enables C++ code to be written on Blueprint Graphs.
@@ -245,6 +244,8 @@ Load images into Unreal at runtime without hitches
 * [EnhancedCodeFlow](https://github.com/zompi2/UE4EnhancedCodeFlow) -  Drastically improves the quality of life during the implementation of game flow in C++.
 * [Ue4MarchingCubes](https://github.com/mikhomak/Ue4MarchingCubes) - 3D Perlin Noise using Marching cubes algorithm for Unreal Engine 4
 * [UE4-Node-Graph-Assistant](https://github.com/pdlogingithub/UE4-Node-Graph-Assistant) - A plugin to help you to create node graph faster and easier in unreal engine 4.
+* [Hermes](https://github.com/jorgenpt/Hermes) - An Unreal Engine plugin that allows direct (deep) links into the UE4 editor
+* [RedTalaria](https://github.com/cdpred/RedTalaria) - an Unreal Engine plugin providing a set of Hermes endpoints
 
 ## Text Editor Extensions
 * [sublime-unreal-snippets](https://github.com/awforsythe/sublime-unreal-snippets) - A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code.
