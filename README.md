@@ -167,6 +167,7 @@ Load images into Unreal at runtime without hitches
 * [Fetch](https://github.com/GameDev4K/unreal-fetch) - A Simple HTTP client for Blueprints & JSON inspired by the Fetch API
 * [Smooth-Networked-Movement-Plugin](https://github.com/Reddy-dev/Smooth-Networked-Movement-Plugin)
 * [colyseus-unreal](https://github.com/charisma-ai/colyseus-unreal) - Colyseus Multiplayer SDK for Unreal Engine
+* [RedTalaria](https://github.com/cdpred/RedTalaria) - an Unreal Engine plugin providing a set of Hermes endpoints
 
 ## Node
 * [Unreal-Magic-Nodes](https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes) - Custom Kismet Node System that enables C++ code to be written on Blueprint Graphs.
