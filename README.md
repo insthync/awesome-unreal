@@ -246,6 +246,7 @@ Load images into Unreal at runtime without hitches
 * [UE4-Node-Graph-Assistant](https://github.com/pdlogingithub/UE4-Node-Graph-Assistant) - A plugin to help you to create node graph faster and easier in unreal engine 4.
 * [Hermes](https://github.com/jorgenpt/Hermes) - An Unreal Engine plugin that allows direct (deep) links into the UE4 editor
 * [RedTalaria](https://github.com/cdpred/RedTalaria) - an Unreal Engine plugin providing a set of Hermes endpoints
+* [ue5coro](https://github.com/landelare/ue5coro) - A gameplay-focused C++17/20 coroutine implementation for Unreal Engine 5.
 
 ## Text Editor Extensions
 * [sublime-unreal-snippets](https://github.com/awforsythe/sublime-unreal-snippets) - A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code.
