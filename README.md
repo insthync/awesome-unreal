@@ -45,6 +45,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Camera
 * [Advanced-Camera-Manager](https://github.com/oivio/Advanced-Camera-Manager) - Advanced Player Camera Component
+* [Editor-Camera-Position](https://github.com/zompi2/EditorCameraPositionUE4) - Editor plugin for convenient control of camera position in the editor view
 
 ## Controller
 * [LeapUnreal](https://github.com/leapmotion/leapunreal) - Leap Motion SDK for the Unreal Engine
