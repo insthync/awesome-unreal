@@ -9,7 +9,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Plugin](#plugin)
 - [Data Exporter](#data-exporter)
 - [Database Connector](#database-connector)
-- [Effects](#Effects)
+- [Effects](#effects)
 - [Game Data](#game-data)
 - [Game Environment](#game-environment)
 - [Gameplay](#gameplay)
