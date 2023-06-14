@@ -9,7 +9,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Plugin](#plugin)
 - [Data Exporter](#data-exporter)
 - [Database Connector](#database-connector)
-- [Effects](#Effects)
+- [Effects](#effects)
 - [Game Data](#game-data)
 - [Game Environment](#game-environment)
 - [Gameplay](#gameplay)
@@ -115,6 +115,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [PsRealVehicle](https://github.com/PushkinStudio/PsRealVehicle) - PsRealVehicle is the plugin for Unreal Engine 4 with simple force-driven vehicle simulation.
 * [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) - UE4 Dark Souls inspired Camera Lock On / Targeting system plugin.
 * [WeaponTrace-Unreal](https://github.com/getnamo/WeaponTrace-Unreal) - WeaponTracing plugin for reliable melee combat.
+* [GameplayTesting-UE5](https://github.com/Polarzincomfrio/GameplayTesting-UE5) - This project was created with the sole purpose of performing several small gameplay tests in Unreal Engine 5.
 
 ## Game Save
 * [SPUD](https://github.com/sinbad/SPUD) - Steve's Persistent Unreal Data library
