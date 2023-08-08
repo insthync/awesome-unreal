@@ -2,7 +2,7 @@
 A categorized collection of awesome opensource Unreal Engine 4 repos
 
 - [AI](#ai)
-- [Anti Cheat](#anti-cheat)
+- [Anti Cheat / Cheat](#anti-cheat--cheat)
 - [Camera](#camera)
 - [Controller](#controller)
 - [Pawn](#pawn)
@@ -39,9 +39,10 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [charisma-sdk-unreal](https://github.com/charisma-ai/charisma-sdk-unreal) - Charisma SDK for Unreal Engine 4.
 * [Reasonable Planning AI](https://github.com/hollsteinm/ReasonablePlanningAI) - Reasonable Planning AI, Utility Reasoning with Goal Oriented Action Planning execution. Data driven with C++ and Blueprint Support.
 
-## Anti Cheat
+## Anti Cheat / Cheat
 * [SCUE4-Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE4-Plugin) - Secure-Client; Anti-Cheat Plugin for Unreal Engine 4.
 * [SCUE5-Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin) - SCUE updated to Unreal 5.
+* [Meta Cheat Manager](https://github.com/JanSeliv/MetaCheatManager) - A plugin that allows to call cheats with custom meta names from the console command.
 
 ## Camera
 * [Advanced-Camera-Manager](https://github.com/oivio/Advanced-Camera-Manager) - Advanced Player Camera Component
@@ -54,6 +55,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Pawn
 * [Pawn](https://github.com/BoredEngineer/MMT_Plugin) - Machinery Modelling Toolkit (Plugin for UE4)
+* [Morphs Player](https://github.com/JanSeliv/MorphsPlayer) - A plugin that allows to play Morph Targets directly on the animation track of your skeletal mesh.
 
 ## Plugin
 * [PsWebServer](https://github.com/PushkinStudio/PsWebServer) - Civet web server integration plugin for Unreal Engine 4
@@ -116,6 +118,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [ue4-targetsystemplugin](https://github.com/mklabs/ue4-targetsystemplugin) - UE4 Dark Souls inspired Camera Lock On / Targeting system plugin.
 * [WeaponTrace-Unreal](https://github.com/getnamo/WeaponTrace-Unreal) - WeaponTracing plugin for reliable melee combat.
 * [GameplayTesting-UE5](https://github.com/Polarzincomfrio/GameplayTesting-UE5) - This project was created with the sole purpose of performing several small gameplay tests in Unreal Engine 5.
+* [Bomber](https://github.com/JanSeliv/Bomber) - This project could be useful for learners, demonstrating a clean code base, the newest UE5 features, and multiplayer functionalities.
 
 ## Game Save
 * [SPUD](https://github.com/sinbad/SPUD) - Steve's Persistent Unreal Data library
@@ -226,6 +229,8 @@ Load images into Unreal at runtime without hitches
 * [ue4-canvas-gui](https://github.com/MaddyOff/ue4-canvas-gui) - It's a simple Canvas GUI for Unreal Engine 4 with mouse operation
 * [FairyGUI-unreal](https://github.com/fairygui/FairyGUI-unreal) - A flexible UI framework for Unreal Engine
 * [MDFastBinding](https://github.com/DoubleDeez/MDFastBinding) - A versatile and performant alternative to property bindings for designer-friendly workflows in UE5.1+
+* [Settings Widget Constructor](https://github.com/JanSeliv/SettingsWidgetConstructor) - A plugin that automatically generates a UI for your game settings.
+* [Custom Shape Button](https://github.com/JanSeliv/CustomShapeButton) - A plugin that allows the creation of buttons of any shape or form.
 
 ## Utilities
 * [ZipUtility Plugin](https://github.com/getnamo/ZipUtility-ue4) - Event driven 7zip utility plugin for Unreal Engine 4
@@ -249,6 +254,7 @@ Load images into Unreal at runtime without hitches
 * [Hermes](https://github.com/jorgenpt/Hermes) - An Unreal Engine plugin that allows direct (deep) links into the UE4 editor
 * [RedTalaria](https://github.com/cdpred/RedTalaria) - an Unreal Engine plugin providing a set of Hermes endpoints
 * [ue5coro](https://github.com/landelare/ue5coro) - A gameplay-focused C++17/20 coroutine implementation for Unreal Engine 5.
+* [Pool Manager](https://github.com/JanSeliv/PoolManager) - A plugin that helps reuse objects, improving game performance by maintaining a pool of objects for reuse instead of creating and destroying them each time.
 
 ## Text Editor Extensions
 * [sublime-unreal-snippets](https://github.com/awforsythe/sublime-unreal-snippets) - A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code.
