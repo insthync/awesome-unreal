@@ -23,6 +23,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Mobile](#mobile)
 - [Networking](#networking)
 - [Node](#node)
+- [Online Services](#online-services)
 - [Scripting](#scripting)
 - [Serializing](#serializing)
 - [Sound](#sound)
