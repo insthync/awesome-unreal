@@ -255,7 +255,7 @@ Load images into Unreal at runtime without hitches
 * [RedTalaria](https://github.com/cdpred/RedTalaria) - an Unreal Engine plugin providing a set of Hermes endpoints
 * [ue5coro](https://github.com/landelare/ue5coro) - A gameplay-focused C++17/20 coroutine implementation for Unreal Engine 5.
 * [Pool Manager](https://github.com/JanSeliv/PoolManager) - A plugin that helps reuse objects, improving game performance by maintaining a pool of objects for reuse instead of creating and destroying them each time.
-* [UE_QuickLaunch](https://github.com/ScottKirvan/UE_QuickLaunch) - A right-click UE project creator/launcher for Windows File Explorer
+* [UE_QuickLaunch](https://github.com/ScottKirvan/UE_QuickLaunch/releases) - A right-click UE project creator/launcher for Windows File Explorer
 
 ## Text Editor Extensions
 * [sublime-unreal-snippets](https://github.com/awforsythe/sublime-unreal-snippets) - A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code.
