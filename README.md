@@ -271,6 +271,7 @@ Load images into Unreal at runtime without hitches
 * [optick](https://github.com/bombomby/optick) - C++ Profiler For Games 
 * [ue4-docker](https://github.com/adamrehn/ue4-docker) - Windows and Linux containers for Unreal Engine 4
 * [LocalizationUE4](https://github.com/rionix/LocalizationUE4) - Translation Editor for Unreal Engine 4
+* [UnrealVersionChanger](https://github.com/Gradess2019/UnrealVersionChanger) - Simple tool for faking UE version for Epic Games Store so we can install outdated / non-upgraded plugins to newer UE version without installing old UE
 
 ## Documents
 * [GASDocumentation](https://github.com/tranek/GASDocumentation) - My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
