@@ -171,7 +171,7 @@ Load images into Unreal at runtime without hitches
 * [mqtt-utilities-unreal](https://github.com/NinevaStudios/mqtt-utilities-unreal) - MqttUtilities is a plugin for Unreal Engine intended to expose MQTT client functionality to blueprints
 * [ble-utilities-unreal](https://github.com/NinevaStudios/ble-utilities-unreal) - This is Unreal Engine plugin that allows to scan for BLE devices with Cycling Power service running, connect to one of them and subscribe for its notifications
 * [Fetch](https://github.com/GameDev4K/unreal-fetch) - A Simple HTTP client for Blueprints & JSON inspired by the Fetch API
-* [Smooth-Networked-Movement-Plugin](https://github.com/Reddy-dev/Smooth-Networked-Movement-Plugin)
+* [SMN2](https://github.com/Reddy-dev/SMN2) - Character Movement Network Prediction easily accessible in UE5 Blueprints!
 * [colyseus-unreal](https://github.com/charisma-ai/colyseus-unreal) - Colyseus Multiplayer SDK for Unreal Engine
 
 ## Node
