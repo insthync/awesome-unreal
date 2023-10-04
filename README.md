@@ -30,6 +30,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [VR](#vr)
 - [UI](#ui)
 - [Utilities](#utilities)
+- [Template](#template)
 - [Text Editor Extensions](#text-editor-extensions)
 - [Text Formatter/Parser](#text-formatterparser)
 - [Tools](#tools)
@@ -256,6 +257,9 @@ Load images into Unreal at runtime without hitches
 * [RedTalaria](https://github.com/cdpred/RedTalaria) - an Unreal Engine plugin providing a set of Hermes endpoints
 * [ue5coro](https://github.com/landelare/ue5coro) - A gameplay-focused C++17/20 coroutine implementation for Unreal Engine 5.
 * [Pool Manager](https://github.com/JanSeliv/PoolManager) - A plugin that helps reuse objects, improving game performance by maintaining a pool of objects for reuse instead of creating and destroying them each time.
+
+## Template
+* [TP_2DSideScrollerBP](https://github.com/CobraCodeDev/TP_2DSideScrollerBP)
 
 ## Text Editor Extensions
 * [sublime-unreal-snippets](https://github.com/awforsythe/sublime-unreal-snippets) - A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code.
