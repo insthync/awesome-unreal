@@ -77,7 +77,8 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [Cesium for Unreal](https://github.com/CesiumGS/cesium-unreal) - Bringing the 3D geospatial ecosystem to Unreal Engine
 * [AccelByte UE4 SDK](https://github.com/AccelByte/accelbyte-ue4-sdk) - AccelByte UE4 SDK is a plugin for Unreal Engine 4
 * [MindMaker](https://github.com/krumiaa/MindMaker) - MindMaker UE4 Machine Learning Toolkit
-* [UEAssimp](https://github.com/irajsb/UE4_Assimp) - Assimp Mesh Importer for UE 
+* [UEAssimp](https://github.com/irajsb/UE4_Assimp) - Assimp Mesh Importer for UE
+* [RealtimeMeshComponent](https://github.com/TriAxis-Games/RealtimeMeshComponent) - Unreal Engine 5 plugin component for rendering runtime generated content.
 
 ## Data Exporter
 * [ServerRecast](https://github.com/darkwere/ServerRecast) - UE4 plugin for navmesh export
