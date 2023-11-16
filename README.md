@@ -260,6 +260,7 @@ Load images into Unreal at runtime without hitches
 * [ue5coro](https://github.com/landelare/ue5coro) - A gameplay-focused C++17/20 coroutine implementation for Unreal Engine 5.
 * [Pool Manager](https://github.com/JanSeliv/PoolManager) - A plugin that helps reuse objects, improving game performance by maintaining a pool of objects for reuse instead of creating and destroying them each time.
 * [unreal-bp-csv-parsing](https://github.com/IncantaGames/unreal-bp-csv-parsing) - Unreal Engine plugin that adds CSV parsing blueprint nodes
+* [MDMetaDataEditor](https://github.com/DoubleDeez/MDMetaDataEditor) - Unreal Engine 5.1+ plugin to enable editing meta data of Blueprint Properties, Functions, and Function and Event Parameters
 
 ## Template
 * [TP_2DSideScrollerBP](https://github.com/CobraCodeDev/TP_2DSideScrollerBP)
