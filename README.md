@@ -249,6 +249,7 @@ Load images into Unreal at runtime without hitches
 * [WhatsMyPublicIP-ue4-plugin](https://github.com/alexhajdu/WhatsMyPublicIP-ue4-plugin) - In case you need to get your public IP - this can help. C++ and Blueprints
 * [WindowCapture2D](https://github.com/ayumax/WindowCapture2D) - Library for capturing and displaying windows in real time with UnrealEngine
 * [UnrealFastNoise](https://github.com/midgen/UnrealFastNoise) - Modular, Blueprint-friendly noise generation for UE4
+* [UnrealFastNoise2](https://github.com/DoubleDeez/UnrealFastNoise2) - A plugin that wraps [FastNoise2](https://github.com/Auburn/FastNoise2), allowing you to use the FastNoise2 library in blueprints.
 * [StevesUEHelpers](https://github.com/sinbad/StevesUEHelpers) - A plugin adding a bunch of common helper functionality that I use in my UE projects
 * [AsyncLoadingScreen](https://github.com/truong-bui/AsyncLoadingScreen) - Async Loading Screen is a free and open-source plugin for Unreal Engine. Async Loading Screen allows you to easily configure a Loading Screen System in the project settings, and automatically add a Loading Screen whenever you open a new level, without Level Streaming.
 * [global-event-system-ue4](https://github.com/getnamo/global-event-system-ue4) - A loosely coupled internal global event system (GES) plugin for the Unreal Engine. Aims to solve cross-map and cross-blueprint communication for reliable and inferable event flow.
