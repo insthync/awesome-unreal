@@ -34,6 +34,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Text Editor Extensions](#text-editor-extensions)
 - [Text Formatter/Parser](#text-formatterparser)
 - [Tools](#tools)
+- [Tweens / Object Movements](#tweens--object-movements)
 - [Documents](#documents)
 
 ## AI
@@ -281,6 +282,10 @@ Load images into Unreal at runtime without hitches
 * [ue4-docker](https://github.com/adamrehn/ue4-docker) - Windows and Linux containers for Unreal Engine 4
 * [LocalizationUE4](https://github.com/rionix/LocalizationUE4) - Translation Editor for Unreal Engine 4
 * [UnrealVersionChanger](https://github.com/Gradess2019/UnrealVersionChanger) - Simple tool for faking UE version for Epic Games Store so we can install outdated / non-upgraded plugins to newer UE version without installing old UE
+
+## Tweens / Object Movements
+* [Fresh Cooked Tweens](https://github.com/jdcook/fresh_cooked_tweens) - A tweening library for Unreal Engine that provide convenient curve equations to ease a value between a start and end, like a position, scale, color, anything you want to smoothly change. 
+* [UE-BUITween](https://github.com/benui-dev/UE-BUITween) - UI Tweening Libary for Unreal Engine UMG UI. Create simple tweens for UMG widgets from C++.
 
 ## Documents
 * [GASDocumentation](https://github.com/tranek/GASDocumentation) - My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
