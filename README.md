@@ -294,3 +294,4 @@ Load images into Unreal at runtime without hitches
 * [UE4-CheatSheet](https://github.com/jbtronics/UE4-CheatSheet) - An Cheat Sheet for Unreal Engine 4 C++ programming, licensed under CC BY-NC-SA 4.0
 * [unrealcpp](https://github.com/Harrison1/unrealcpp) - Unreal Engine 4 C++ examples
 * [MassSample](https://github.com/Megafunk/MassSample) - Community Mass Sample
+* [Guide-UnrealEngine](https://github.com/MrRobinOfficial/Guide-UnrealEngine) - This repository is designed to help developers learn how to get started with Unreal Engine. This project includes tutorials and examples for using these tools with the Unreal Engine and C++
