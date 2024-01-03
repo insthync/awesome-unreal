@@ -22,6 +22,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Locomotion](#locomotion)
 - [Machine Learning](#machine-learning)
 - [Mobile](#mobile)
+- [Modding](#modding)
 - [Networking](#networking)
 - [Node](#node)
 - [Online Services](#online-services)
@@ -162,6 +163,9 @@ Load images into Unreal at runtime without hitches
 ## Mobile
 * [MobileUtils](https://github.com/gameDNAstudio/MobileUtils) - A plugin for Unreal Engine 4 that lets you integrate mobile utilities into your project
 * [AndroidNative](https://github.com/gtreshchev/AndroidNative) - Android Native plugin for Unreal Engine that makes it easy to call Java functions via JNI.
+
+## Modding
+* [UAssetAPI](https://github.com/atenfyr/UAssetAPI) - A low-level .NET library for reading and writing Unreal Engine 4 game assets.
 
 ## Networking
 * [VaRest](https://github.com/ufna/VaRest) - REST API plugin for Unreal Engine 4 - we love restfull backend and JSON communications!
