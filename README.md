@@ -159,6 +159,7 @@ Load images into Unreal at runtime without hitches
 ## Machine Learning
 * [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) - TensorFlow plugin for Unreal Engine 4
 * [tensorflow2-ue4-ar](https://github.com/Allysony/tensorflow2-ue4-ar) - Augmented Reality Computer Vision Application using TensorFlow 2 and the Unreal Engine 4.23
+* [UELlama](https://github.com/mika314/UELlama) - Llama plugin for Unreal Engine 5
 
 ## Mobile
 * [MobileUtils](https://github.com/gameDNAstudio/MobileUtils) - A plugin for Unreal Engine 4 that lets you integrate mobile utilities into your project
