@@ -124,6 +124,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [WeaponTrace-Unreal](https://github.com/getnamo/WeaponTrace-Unreal) - WeaponTracing plugin for reliable melee combat.
 * [GameplayTesting-UE5](https://github.com/Polarzincomfrio/GameplayTesting-UE5) - This project was created with the sole purpose of performing several small gameplay tests in Unreal Engine 5.
 * [Bomber](https://github.com/JanSeliv/Bomber) - This project could be useful for learners, demonstrating a clean code base, the newest UE5 features, and multiplayer functionalities.
+* [SMN2](https://github.com/Reddy-dev/SMN2) - Character Movement Network Prediction easily accessible in UE5 Blueprints!
 
 ## Game Save
 * [SPUD](https://github.com/sinbad/SPUD) - Steve's Persistent Unreal Data library
@@ -176,7 +177,6 @@ Load images into Unreal at runtime without hitches
 * [mqtt-utilities-unreal](https://github.com/NinevaStudios/mqtt-utilities-unreal) - MqttUtilities is a plugin for Unreal Engine intended to expose MQTT client functionality to blueprints
 * [ble-utilities-unreal](https://github.com/NinevaStudios/ble-utilities-unreal) - This is Unreal Engine plugin that allows to scan for BLE devices with Cycling Power service running, connect to one of them and subscribe for its notifications
 * [Fetch](https://github.com/GameDev4K/unreal-fetch) - A Simple HTTP client for Blueprints & JSON inspired by the Fetch API
-* [SMN2](https://github.com/Reddy-dev/SMN2) - Character Movement Network Prediction easily accessible in UE5 Blueprints!
 * [colyseus-unreal](https://github.com/charisma-ai/colyseus-unreal) - Colyseus Multiplayer SDK for Unreal Engine
 
 ## Node
