@@ -4,6 +4,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [AI](#ai)
 - [Anti Cheat / Cheat](#anti-cheat--cheat)
 - [Camera](#camera)
+- [Character Movement](#character-movement)
 - [Controller](#controller)
 - [Pawn](#pawn)
 - [Plugin](#plugin)
@@ -50,6 +51,13 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 ## Camera
 * [Advanced-Camera-Manager](https://github.com/oivio/Advanced-Camera-Manager) - Advanced Player Camera Component
 * [Editor-Camera-Position](https://github.com/zompi2/EditorCameraPositionUE4) - Editor plugin for convenient control of camera position in the editor view
+
+## Character Movement
+* [SMN2](https://github.com/Reddy-dev/SMN2) - Character Movement Network Prediction easily accessible in UE5 Blueprints!
+* [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) - https://github.com/ProjectBorealis/PBCharacterMovement
+* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 4.26 with additional bug fixes.
+* [ALS_Component](https://github.com/oivio/ALS_Component) - Based on ALSv4 this is Component
+* [ALS-Refactored](https://github.com/Sixze/ALS-Refactored) - Completely reworked and improved C++ version of Advanced Locomotion System V4.
 
 ## Controller
 * [LeapUnreal](https://github.com/leapmotion/leapunreal) - Leap Motion SDK for the Unreal Engine
@@ -112,7 +120,6 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [UE4-CustomGravityPlugin](https://github.com/mhousse1247/UE4-CustomGravityPlugin) - Unreal Engine 4 : Custom Gravity Plugin
 * [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain) - Smooth voxel terrain plugin
 * [VaFogOfWar](https://github.com/ufna/VaFogOfWar) - A clear and simple solution of Fog of War for Unreal Engine 4
-* [PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) - https://github.com/ProjectBorealis/PBCharacterMovement
 * [GASDocumentation](https://github.com/tranek/GASDocumentation) - My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
 * [GASShooter](https://github.com/tranek/GASShooter) - Advanced FPS/TPS Sample Project for Unreal Engine 4's GameplayAbilitySystem plugin
 * [Inventory + Equipment System](https://github.com/angelhodar/OpenRPG_Inventory) - Generic and fully featured multipurpose inventory container and equipment system for Unreal Engine 4
@@ -124,7 +131,6 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [WeaponTrace-Unreal](https://github.com/getnamo/WeaponTrace-Unreal) - WeaponTracing plugin for reliable melee combat.
 * [GameplayTesting-UE5](https://github.com/Polarzincomfrio/GameplayTesting-UE5) - This project was created with the sole purpose of performing several small gameplay tests in Unreal Engine 5.
 * [Bomber](https://github.com/JanSeliv/Bomber) - This project could be useful for learners, demonstrating a clean code base, the newest UE5 features, and multiplayer functionalities.
-* [SMN2](https://github.com/Reddy-dev/SMN2) - Character Movement Network Prediction easily accessible in UE5 Blueprints!
 
 ## Game Save
 * [SPUD](https://github.com/sinbad/SPUD) - Steve's Persistent Unreal Data library
@@ -148,11 +154,6 @@ Load images into Unreal at runtime without hitches
 ## Localization
 * [UE4-BYGLocalization](https://github.com/BraceYourselfGames/UE4-BYGLocalization) - Simple CSV localization system for Unreal Engine 4
 * [Easy Localization Tool](https://github.com/zompi2/UE4EasyLocalizationTool) - Introduces a way simpler method of localizing game by simply importing CSV file into engine's localization files.
-
-## Locomotion
-* [ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 4.26 with additional bug fixes.
-* [ALS_Component](https://github.com/oivio/ALS_Component) - Based on ALSv4 this is Component
-* [ALS-Refactored](https://github.com/Sixze/ALS-Refactored) - Completely reworked and improved C++ version of Advanced Locomotion System V4.
 
 ## Machine Learning
 * [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) - TensorFlow plugin for Unreal Engine 4
