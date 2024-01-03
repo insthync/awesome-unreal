@@ -186,6 +186,7 @@ Load images into Unreal at runtime without hitches
 * [GGPOUE4](https://github.com/BwdYeti/GGPOUE4) - Unreal Engine 4 plugin port of GGPO
 * [UE-DSSPlugin](https://github.com/sha3sha3/UE-DSSPlugin) - Scalable MMO servers instantiation, dungeon instantiation and player balancing subsystem for unreal engine
 * [UE-EasyKafka](https://github.com/sha3sha3/UE-EasyKafka) - EasyKafka is a Kafka/Redpanda client sub-system for unreal engine. It supports producing and consuming records through blueprint and C++.
+* [Unreal-SignalR](https://github.com/FrozenStormInteractive/Unreal-SignalR) - SignalR client for Unreal Engine.
 
 ## Node
 * [Unreal-Magic-Nodes](https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes) - Custom Kismet Node System that enables C++ code to be written on Blueprint Graphs.
