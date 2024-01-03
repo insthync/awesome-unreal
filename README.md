@@ -1,4 +1,4 @@
-# awesome-ue4
+# awesome-urneal
 A categorized collection of awesome opensource Unreal Engine 4 repos
 
 - [AI](#ai)
@@ -184,6 +184,8 @@ Load images into Unreal at runtime without hitches
 * [Fetch](https://github.com/GameDev4K/unreal-fetch) - A Simple HTTP client for Blueprints & JSON inspired by the Fetch API
 * [colyseus-unreal](https://github.com/charisma-ai/colyseus-unreal) - Colyseus Multiplayer SDK for Unreal Engine
 * [GGPOUE4](https://github.com/BwdYeti/GGPOUE4) - Unreal Engine 4 plugin port of GGPO
+* [UE-DSSPlugin](https://github.com/sha3sha3/UE-DSSPlugin) - Scalable MMO servers instantiation, dungeon instantiation and player balancing subsystem for unreal engine
+* [UE-EasyKafka](https://github.com/sha3sha3/UE-EasyKafka) - EasyKafka is a Kafka/Redpanda client sub-system for unreal engine. It supports producing and consuming records through blueprint and C++.
 
 ## Node
 * [Unreal-Magic-Nodes](https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes) - Custom Kismet Node System that enables C++ code to be written on Blueprint Graphs.
@@ -270,6 +272,7 @@ Load images into Unreal at runtime without hitches
 * [Pool Manager](https://github.com/JanSeliv/PoolManager) - A plugin that helps reuse objects, improving game performance by maintaining a pool of objects for reuse instead of creating and destroying them each time.
 * [unreal-bp-csv-parsing](https://github.com/IncantaGames/unreal-bp-csv-parsing) - Unreal Engine plugin that adds CSV parsing blueprint nodes
 * [MDMetaDataEditor](https://github.com/DoubleDeez/MDMetaDataEditor) - Unreal Engine 5.1+ plugin to enable editing meta data of Blueprint Properties, Functions, and Function and Event Parameters
+* [UE-EasyJWT](https://github.com/sha3sha3/UE-EasyJWT) - JWT wrapper (Engine Sub-system) for Unreal Engine.
 
 ## Template
 * [TP_2DSideScrollerBP](https://github.com/CobraCodeDev/TP_2DSideScrollerBP)
