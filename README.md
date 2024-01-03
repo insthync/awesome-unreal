@@ -92,6 +92,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 ## Effects
 * [UE4-AuroraEffect](https://github.com/Hideous/UE4-AuroraEffect) - A raymarched aurora borealis effect for Unreal 4
 * [NiagaraUIRenderer](https://github.com/SourySK/NiagaraUIRenderer) - Niagara UI Renderer | Free Plugin for Unreal Engine
+* [UE5-StylizedPostProcess](https://github.com/ymt3d/UE5-StylizedPostProcess) - Stylized Post Process for Unreal Engine 5
 
 ## Game Data
 * [SUQS](https://github.com/sinbad/SUQS) - Steve's Unreal Quest System: data-driven quest system for UE4
