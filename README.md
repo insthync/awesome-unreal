@@ -59,6 +59,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 4.26 with additional bug fixes.
 * [ALS_Component](https://github.com/oivio/ALS_Component) - Based on ALSv4 this is Component
 * [ALS-Refactored](https://github.com/Sixze/ALS-Refactored) - Completely reworked and improved C++ version of Advanced Locomotion System V4.
+* [PredictedMovement](https://github.com/Vaei/PredictedMovement) - CMC extended for predicted abilities
 
 ## Controller
 * [LeapUnreal](https://github.com/leapmotion/leapunreal) - Leap Motion SDK for the Unreal Engine
