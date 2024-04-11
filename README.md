@@ -26,6 +26,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Networking](#networking)
 - [Node](#node)
 - [Online Services](#online-services)
+- [Project Templates](#project-templates)
 - [Scripting](#scripting)
 - [Serializing](#serializing)
 - [Sound](#sound)
@@ -197,6 +198,9 @@ Load images into Unreal at runtime without hitches
 
 ## Online Services
 * [UE4_EOS_Plugin](https://github.com/gaslightgames/UE4_EOS_Plugin) - A plugin and sample project, built for Unreal Engine 4, that implements the Epic Online Services SDK
+
+## Project templates
+* [Nano](https://github.com/pfist/Nano) - A tiny template for tiny Unreal games.
 
 ## Scripting
 * [Unreal.js](https://github.com/ncsoft/Unreal.js) - Unreal.js: Javascript runtime built for UnrealEngine 4
