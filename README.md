@@ -134,6 +134,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [WeaponTrace-Unreal](https://github.com/getnamo/WeaponTrace-Unreal) - WeaponTracing plugin for reliable melee combat.
 * [GameplayTesting-UE5](https://github.com/Polarzincomfrio/GameplayTesting-UE5) - This project was created with the sole purpose of performing several small gameplay tests in Unreal Engine 5.
 * [Bomber](https://github.com/JanSeliv/Bomber) - This project could be useful for learners, demonstrating a clean code base, the newest UE5 features, and multiplayer functionalities.
+* [Arc Activities](https://github.com/punyhumangames/ArcActivities) -  An Activity and Quest system with a custom editor graph for creating gameplay activities for UE5.  
 
 ## Game Save
 * [SPUD](https://github.com/sinbad/SPUD) - Steve's Persistent Unreal Data library
