@@ -91,6 +91,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [MindMaker](https://github.com/krumiaa/MindMaker) - MindMaker UE4 Machine Learning Toolkit
 * [UEAssimp](https://github.com/irajsb/UE4_Assimp) - Assimp Mesh Importer for UE
 * [RealtimeMeshComponent](https://github.com/TriAxis-Games/RealtimeMeshComponent) - Unreal Engine 5 plugin component for rendering runtime generated content.
+* [PluginTemplate](https://github.com/Sythenz/PluginTemplate) - A basic Unreal Template with Editor and Runtime Module.
 
 ## Data Exporter
 * [ServerRecast](https://github.com/darkwere/ServerRecast) - UE4 plugin for navmesh export
