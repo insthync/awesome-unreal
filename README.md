@@ -315,3 +315,4 @@ Load images into Unreal at runtime without hitches
 * [unrealcpp](https://github.com/Harrison1/unrealcpp) - Unreal Engine 4 C++ examples
 * [MassSample](https://github.com/Megafunk/MassSample) - Community Mass Sample
 * [Guide-UnrealEngine](https://github.com/MrRobinOfficial/Guide-UnrealEngine) - This repository is designed to help developers learn how to get started with Unreal Engine. This project includes tutorials and examples for using these tools with the Unreal Engine and C++
+* [Narxim-GAS-Example](https://github.com/Narxim/Narxim-GAS-Example) - A basic setup for using Epic's Gameplay Ability System.
