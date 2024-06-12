@@ -30,6 +30,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Scripting](#scripting)
 - [Serializing](#serializing)
 - [Sound](#sound)
+- [Voice](#voice)
 - [VR](#vr)
 - [UI](#ui)
 - [Utilities](#utilities)
@@ -230,6 +231,9 @@ Load images into Unreal at runtime without hitches
 * [ArthursAudioBPs](https://github.com/ArthurBarthur/ArthursAudioBPs) - UE4 project with various examples of audio-related stuff like visualizers, generators etc.
 * [AudioAnalysisTools](https://github.com/gtreshchev/AudioAnalysisTools) - Audio Analysis Tools plugin for Unreal Engine. Provides a variety of functions for analyzing audio data. Works in conjunction with the Runtime Audio Importer plugin.
 
+## Voice
+* [RuntimeSpeechRecognizer](https://github.com/gtreshchev/RuntimeSpeechRecognizer) -  Cross-platform, real-time, offline speech recognition plugin for Unreal Engine. Based on Whisper OpenAI technology, whisper.cpp.
+
 ## VR
 * [OSVR-Unreal](https://github.com/OSVR/OSVR-Unreal) - OSVR plugin for Unreal Engine
 * [MixedReality-UXTools-Unreal](https://github.com/microsoft/MixedReality-UXTools-Unreal) - UX tools and components for developing Mixed Reality applications in UE4.
@@ -283,6 +287,7 @@ Load images into Unreal at runtime without hitches
 * [unreal-bp-csv-parsing](https://github.com/IncantaGames/unreal-bp-csv-parsing) - Unreal Engine plugin that adds CSV parsing blueprint nodes
 * [MDMetaDataEditor](https://github.com/DoubleDeez/MDMetaDataEditor) - Unreal Engine 5.1+ plugin to enable editing meta data of Blueprint Properties, Functions, and Function and Event Parameters
 * [UE-EasyJWT](https://github.com/sha3sha3/UE-EasyJWT) - JWT wrapper (Engine Sub-system) for Unreal Engine.
+* [RuntimeArchiver](https://github.com/gtreshchev/RuntimeArchiver) - Cross-platform archiving and unarchiving directories and files. Supports Zip, Oodle, Tar, LZ4, and GZip formats.
 
 ## Template
 * [TP_2DSideScrollerBP](https://github.com/CobraCodeDev/TP_2DSideScrollerBP)
