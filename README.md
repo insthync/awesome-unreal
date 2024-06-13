@@ -172,6 +172,7 @@ Load images into Unreal at runtime without hitches
 
 ## Modding
 * [UAssetAPI](https://github.com/atenfyr/UAssetAPI) - A low-level .NET library for reading and writing Unreal Engine 4 game assets.
+* [mod.io](https://github.com/modio/modio-ue) - Unreal Engine Plugin for easily integrating mod.io into your game - the UGC management service for game developers.
 
 ## Networking
 * [VaRest](https://github.com/ufna/VaRest) - REST API plugin for Unreal Engine 4 - we love restfull backend and JSON communications!
