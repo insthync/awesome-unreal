@@ -1,4 +1,4 @@
-# awesome-urneal
+# awesome-unreal
 A categorized collection of awesome opensource Unreal Engine 4 repos
 
 - [AI](#ai)
