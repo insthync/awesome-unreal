@@ -291,6 +291,7 @@ Load images into Unreal at runtime without hitches
 * [MDMetaDataEditor](https://github.com/DoubleDeez/MDMetaDataEditor) - Unreal Engine 5.1+ plugin to enable editing meta data of Blueprint Properties, Functions, and Function and Event Parameters
 * [UE-EasyJWT](https://github.com/sha3sha3/UE-EasyJWT) - JWT wrapper (Engine Sub-system) for Unreal Engine.
 * [RuntimeArchiver](https://github.com/gtreshchev/RuntimeArchiver) - Cross-platform archiving and unarchiving directories and files. Supports Zip, Oodle, Tar, LZ4, and GZip formats.
+* [ue5coro](https://github.com/landelare/ue5coro) - A C++20 coroutine plugin, offering seamless integration with Unreal Engine 5.
 
 ## Template
 * [TP_2DSideScrollerBP](https://github.com/CobraCodeDev/TP_2DSideScrollerBP)
