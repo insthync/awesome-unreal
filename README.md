@@ -197,6 +197,7 @@ Load images into Unreal at runtime without hitches
 * [UE-EasyKafka](https://github.com/sha3sha3/UE-EasyKafka) - EasyKafka is a Kafka/Redpanda client sub-system for unreal engine. It supports producing and consuming records through blueprint and C++.
 * [Unreal-SignalR](https://github.com/FrozenStormInteractive/Unreal-SignalR) - SignalR client for Unreal Engine.
 * [OWS](https://github.com/Dartanlla/OWS) - Open World Server system
+* [LocusReplicationGraph](https://github.com/locus84/LocusReplicationGraph) - Simple Unity Addressables Alternative That Supports Synchronized API And Memory Management.
 
 ## Node
 * [Unreal-Magic-Nodes](https://github.com/BrUnOXaVIeRLeiTE/Unreal-Magic-Nodes) - Custom Kismet Node System that enables C++ code to be written on Blueprint Graphs.
