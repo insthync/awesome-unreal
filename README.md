@@ -234,6 +234,7 @@ Load images into Unreal at runtime without hitches
 ## Sound
 * [ArthursAudioBPs](https://github.com/ArthurBarthur/ArthursAudioBPs) - UE4 project with various examples of audio-related stuff like visualizers, generators etc.
 * [AudioAnalysisTools](https://github.com/gtreshchev/AudioAnalysisTools) - Audio Analysis Tools plugin for Unreal Engine. Provides a variety of functions for analyzing audio data. Works in conjunction with the Runtime Audio Importer plugin.
+* [XJ music](https://github.com/xjmusic/UnrealPlugin/) - XJ music plugin for Unreal Engine. XJ is the first end-to-end solution for adaptive music in video games built specifically and only for music, enabling composers to realize new possibilities.
 
 ## Voice
 * [RuntimeSpeechRecognizer](https://github.com/gtreshchev/RuntimeSpeechRecognizer) -  Cross-platform, real-time, offline speech recognition plugin for Unreal Engine. Based on Whisper OpenAI technology, whisper.cpp.
