@@ -235,6 +235,7 @@ Load images into Unreal at runtime without hitches
 * [ArthursAudioBPs](https://github.com/ArthurBarthur/ArthursAudioBPs) - UE4 project with various examples of audio-related stuff like visualizers, generators etc.
 * [AudioAnalysisTools](https://github.com/gtreshchev/AudioAnalysisTools) - Audio Analysis Tools plugin for Unreal Engine. Provides a variety of functions for analyzing audio data. Works in conjunction with the Runtime Audio Importer plugin.
 * [XJ music](https://github.com/xjmusic/UnrealPlugin/) - XJ music plugin for Unreal Engine. XJ is the first end-to-end solution for adaptive music in video games built specifically and only for music, enabling composers to realize new possibilities.
+* [Level Sequencer Audio Trimmer](https://github.com/JanSeliv/LevelSequencerAudioTrimmer) - A plugin that trims and reimports all audio assets in a level sequence to reduce project size.
 
 ## Voice
 * [RuntimeSpeechRecognizer](https://github.com/gtreshchev/RuntimeSpeechRecognizer) -  Cross-platform, real-time, offline speech recognition plugin for Unreal Engine. Based on Whisper OpenAI technology, whisper.cpp.
@@ -294,6 +295,7 @@ Load images into Unreal at runtime without hitches
 * [UE-EasyJWT](https://github.com/sha3sha3/UE-EasyJWT) - JWT wrapper (Engine Sub-system) for Unreal Engine.
 * [RuntimeArchiver](https://github.com/gtreshchev/RuntimeArchiver) - Cross-platform archiving and unarchiving directories and files. Supports Zip, Oodle, Tar, LZ4, and GZip formats.
 * [ue5coro](https://github.com/landelare/ue5coro) - A C++20 coroutine plugin, offering seamless integration with Unreal Engine 5.
+* [Function Picker](https://github.com/JanSeliv/FunctionPicker) - a plugin that allows to choose a function right in the property from any blueprint or asset.
 
 ## Template
 * [TP_2DSideScrollerBP](https://github.com/CobraCodeDev/TP_2DSideScrollerBP)
