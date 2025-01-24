@@ -1,6 +1,7 @@
 # awesome-unreal
 A categorized collection of awesome opensource Unreal Engine 4 repos
 
+- [Ability System](#ability-system)
 - [AI](#ai)
 - [Anti Cheat / Cheat](#anti-cheat--cheat)
 - [Camera](#camera)
@@ -10,6 +11,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Plugin](#plugin)
 - [Data Exporter](#data-exporter)
 - [Database Connector](#database-connector)
+- [Editor](#editor)
 - [Effects](#effects)
 - [Game Data](#game-data)
 - [Game Environment](#game-environment)
@@ -40,6 +42,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Tools](#tools)
 - [Tweens / Object Movements](#tweens--object-movements)
 - [Documents](#documents)
+
+## Ability System
+* [RemAbilityUtility](https://github.com/RemRemRemRe/RemAbilityUtility) - Utilities for gameplay ability system
 
 ## AI
 * [BTUtilityPlugin](https://github.com/kamrann/BTUtilityPlugin) - Extension to engine behavior tree system, adding utility-based selection nodes - Plugin version
@@ -103,6 +108,10 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 ## Database Connector
 * [MySQLConnectorUE4Plugin](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin) - MySQL Database Connector Plugin for Unreal Engine 4
 * [SQLite3UE4](https://github.com/KhArtNJava/SQLite3UE4) - SQLite3 Database Plugin for Unreal Engine 4
+
+## Editor
+* [RemEditorUtilities](https://github.com/RemRemRemRe/RemEditorUtilities) - Utilities for editor customization
+* [Function Picker](https://github.com/JanSeliv/FunctionPicker) - a plugin that allows to choose a function right in the property from any blueprint or asset.
 
 ## Effects
 * [UE4-AuroraEffect](https://github.com/Hideous/UE4-AuroraEffect) - A raymarched aurora borealis effect for Unreal 4
@@ -265,6 +274,8 @@ Load images into Unreal at runtime without hitches
 * [MDFastBinding](https://github.com/DoubleDeez/MDFastBinding) - A versatile and performant alternative to property bindings for designer-friendly workflows in UE5.1+
 * [Settings Widget Constructor](https://github.com/JanSeliv/SettingsWidgetConstructor) - A plugin that automatically generates a UI for your game settings.
 * [Custom Shape Button](https://github.com/JanSeliv/CustomShapeButton) - A plugin that allows the creation of buttons of any shape or form.
+* [RemWidgetComponent](https://github.com/RemRemRemRe/RemWidgetComponent) - Component for user widget
+* [RemWidgetComponentEditor](https://github.com/RemRemRemRe/RemWidgetComponentEditor) - Editor customization for RemWidgetComponent
 
 ## Utilities
 * [ZipUtility Plugin](https://github.com/getnamo/ZipUtility-ue4) - Event driven 7zip utility plugin for Unreal Engine 4
@@ -288,14 +299,15 @@ Load images into Unreal at runtime without hitches
 * [UE4-Node-Graph-Assistant](https://github.com/pdlogingithub/UE4-Node-Graph-Assistant) - A plugin to help you to create node graph faster and easier in unreal engine 4.
 * [Hermes](https://github.com/jorgenpt/Hermes) - An Unreal Engine plugin that allows direct (deep) links into the UE4 editor
 * [RedTalaria](https://github.com/cdpred/RedTalaria) - an Unreal Engine plugin providing a set of Hermes endpoints
-* [ue5coro](https://github.com/landelare/ue5coro) - A gameplay-focused C++17/20 coroutine implementation for Unreal Engine 5.
 * [Pool Manager](https://github.com/JanSeliv/PoolManager) - A plugin that helps reuse objects, improving game performance by maintaining a pool of objects for reuse instead of creating and destroying them each time.
 * [unreal-bp-csv-parsing](https://github.com/IncantaGames/unreal-bp-csv-parsing) - Unreal Engine plugin that adds CSV parsing blueprint nodes
 * [MDMetaDataEditor](https://github.com/DoubleDeez/MDMetaDataEditor) - Unreal Engine 5.1+ plugin to enable editing meta data of Blueprint Properties, Functions, and Function and Event Parameters
 * [UE-EasyJWT](https://github.com/sha3sha3/UE-EasyJWT) - JWT wrapper (Engine Sub-system) for Unreal Engine.
 * [RuntimeArchiver](https://github.com/gtreshchev/RuntimeArchiver) - Cross-platform archiving and unarchiving directories and files. Supports Zip, Oodle, Tar, LZ4, and GZip formats.
 * [ue5coro](https://github.com/landelare/ue5coro) - A C++20 coroutine plugin, offering seamless integration with Unreal Engine 5.
-* [Function Picker](https://github.com/JanSeliv/FunctionPicker) - a plugin that allows to choose a function right in the property from any blueprint or asset.
+* [RemMyBlank](https://github.com/RemRemRemRe/RemMyBlank) - My plugin template
+* [RemCommon](https://github.com/RemRemRemRe/RemCommon) - Common utilities for gameplay in UnrealEngine
+* [RemRanges](https://github.com/RemRemRemRe/RemRanges) - Combination of IGRanges and ranges-v3 for Unreal
 
 ## Template
 * [TP_2DSideScrollerBP](https://github.com/CobraCodeDev/TP_2DSideScrollerBP)
