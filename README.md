@@ -111,6 +111,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Editor
 * [RemEditorUtilities](https://github.com/RemRemRemRe/RemEditorUtilities) - Utilities for editor customization
+* [Function Picker](https://github.com/JanSeliv/FunctionPicker) - a plugin that allows to choose a function right in the property from any blueprint or asset.
 
 ## Effects
 * [UE4-AuroraEffect](https://github.com/Hideous/UE4-AuroraEffect) - A raymarched aurora borealis effect for Unreal 4
@@ -243,6 +244,7 @@ Load images into Unreal at runtime without hitches
 * [ArthursAudioBPs](https://github.com/ArthurBarthur/ArthursAudioBPs) - UE4 project with various examples of audio-related stuff like visualizers, generators etc.
 * [AudioAnalysisTools](https://github.com/gtreshchev/AudioAnalysisTools) - Audio Analysis Tools plugin for Unreal Engine. Provides a variety of functions for analyzing audio data. Works in conjunction with the Runtime Audio Importer plugin.
 * [XJ music](https://github.com/xjmusic/UnrealPlugin/) - XJ music plugin for Unreal Engine. XJ is the first end-to-end solution for adaptive music in video games built specifically and only for music, enabling composers to realize new possibilities.
+* [Level Sequencer Audio Trimmer](https://github.com/JanSeliv/LevelSequencerAudioTrimmer) - A plugin that trims and reimports all audio assets in a level sequence to reduce project size.
 
 ## Voice
 * [RuntimeSpeechRecognizer](https://github.com/gtreshchev/RuntimeSpeechRecognizer) -  Cross-platform, real-time, offline speech recognition plugin for Unreal Engine. Based on Whisper OpenAI technology, whisper.cpp.
