@@ -327,6 +327,7 @@ Load images into Unreal at runtime without hitches
 * [ue4-docker](https://github.com/adamrehn/ue4-docker) - Windows and Linux containers for Unreal Engine 4
 * [LocalizationUE4](https://github.com/rionix/LocalizationUE4) - Translation Editor for Unreal Engine 4
 * [UnrealVersionChanger](https://github.com/Gradess2019/UnrealVersionChanger) - Simple tool for faking UE version for Epic Games Store so we can install outdated / non-upgraded plugins to newer UE version without installing old UE
+* [Nuke.Unreal](https://github.com/microdee/Nuke.Unreal) - C# scriptable workflow for automating Unreal Engine project tasks embracing the [Nuke](https://nuke.build) target graph and fluent API tool bindings.
 
 ## Tweens / Object Movements
 * [Fresh Cooked Tweens](https://github.com/jdcook/fresh_cooked_tweens) - A tweening library for Unreal Engine that provide convenient curve equations to ease a value between a start and end, like a position, scale, color, anything you want to smoothly change. 
