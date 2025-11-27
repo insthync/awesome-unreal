@@ -300,6 +300,7 @@ Load images into Unreal at runtime without hitches
 * [Hermes](https://github.com/jorgenpt/Hermes) - An Unreal Engine plugin that allows direct (deep) links into the UE4 editor
 * [RedTalaria](https://github.com/cdpred/RedTalaria) - an Unreal Engine plugin providing a set of Hermes endpoints
 * [Pool Manager](https://github.com/JanSeliv/PoolManager) - A plugin that helps reuse objects, improving game performance by maintaining a pool of objects for reuse instead of creating and destroying them each time.
+* [UE_QuickLaunch](https://github.com/ScottKirvan/UE_QuickLaunch/releases) - A right-click UE project creator/launcher for Windows File Explorer
 * [unreal-bp-csv-parsing](https://github.com/IncantaGames/unreal-bp-csv-parsing) - Unreal Engine plugin that adds CSV parsing blueprint nodes
 * [MDMetaDataEditor](https://github.com/DoubleDeez/MDMetaDataEditor) - Unreal Engine 5.1+ plugin to enable editing meta data of Blueprint Properties, Functions, and Function and Event Parameters
 * [UE-EasyJWT](https://github.com/sha3sha3/UE-EasyJWT) - JWT wrapper (Engine Sub-system) for Unreal Engine.
