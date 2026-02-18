@@ -13,6 +13,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Database Connector](#database-connector)
 - [Editor](#editor)
 - [Effects](#effects)
+- [Framework](#framework)
 - [Game Data](#game-data)
 - [Game Environment](#game-environment)
 - [Gameplay](#gameplay)
@@ -28,6 +29,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Networking](#networking)
 - [Node](#node)
 - [Online Services](#online-services)
+- [Physics](#physics)
 - [Project Templates](#project-templates)
 - [Scripting](#scripting)
 - [Serializing](#serializing)
@@ -117,6 +119,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [UE4-AuroraEffect](https://github.com/Hideous/UE4-AuroraEffect) - A raymarched aurora borealis effect for Unreal 4
 * [NiagaraUIRenderer](https://github.com/SourySK/NiagaraUIRenderer) - Niagara UI Renderer | Free Plugin for Unreal Engine
 * [UE5-StylizedPostProcess](https://github.com/ymt3d/UE5-StylizedPostProcess) - Stylized Post Process for Unreal Engine 5
+
+## Framework
+* [ArtilleryEco](https://github.com/OversizedSunCoreDev/ArtilleryEco) - Determinism, abilities, threaded input processing, and state management primitives married to a core set of basic tools used to bind to a weapon, character, entity, effect, or actor in a compositional and elegant way
 
 ## Game Data
 * [SUQS](https://github.com/sinbad/SUQS) - Steve's Unreal Quest System: data-driven quest system for UE4
@@ -214,6 +219,9 @@ Load images into Unreal at runtime without hitches
 
 ## Online Services
 * [UE4_EOS_Plugin](https://github.com/gaslightgames/UE4_EOS_Plugin) - A plugin and sample project, built for Unreal Engine 4, that implements the Epic Online Services SDK
+
+## Physics
+* [UnrealJolt](https://github.com/Yadhu-S/UnrealJolt) - Jolt physics integration (Plugin) for Unreal Engine 5 (UE5)
 
 ## Project templates
 * [Nano](https://github.com/pfist/Nano) - A tiny template for tiny Unreal games.
