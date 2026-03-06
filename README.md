@@ -316,6 +316,7 @@ Load images into Unreal at runtime without hitches
 * [RemMyBlank](https://github.com/RemRemRemRe/RemMyBlank) - My plugin template
 * [RemCommon](https://github.com/RemRemRemRe/RemCommon) - Common utilities for gameplay in UnrealEngine
 * [RemRanges](https://github.com/RemRemRemRe/RemRanges) - Combination of IGRanges and ranges-v3 for Unreal
+* [ViewportManager](https://github.com/jackcayc924/ViewportManager) - A C++ based plugin for Unreal Engine that allows for multiple customizable viewports
 
 ## Template
 * [TP_2DSideScrollerBP](https://github.com/CobraCodeDev/TP_2DSideScrollerBP)
