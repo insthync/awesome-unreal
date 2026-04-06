@@ -44,6 +44,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Tools](#tools)
 - [Tweens / Object Movements](#tweens--object-movements)
 - [Documents](#documents)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Unreal Engine workflow orchestration, automated game development management, and multi-agent coordination. MIT licensed.
 
 ## Ability System
 * [RemAbilityUtility](https://github.com/RemRemRemRe/RemAbilityUtility) - Utilities for gameplay ability system
