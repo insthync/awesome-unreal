@@ -153,6 +153,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [GameplayTesting-UE5](https://github.com/Polarzincomfrio/GameplayTesting-UE5) - This project was created with the sole purpose of performing several small gameplay tests in Unreal Engine 5.
 * [Bomber](https://github.com/JanSeliv/Bomber) - This project could be useful for learners, demonstrating a clean code base, the newest UE5 features, and multiplayer functionalities.
 * [Arc Activities](https://github.com/punyhumangames/ArcActivities) -  An Activity and Quest system with a custom editor graph for creating gameplay activities for UE5.  
+* [ALIS](https://github.com/fallintodusk/alis) - Open-source UE5 survival game with modular C++ gameplay and editor plugins, data-driven JSON definitions, AI-agent-friendly flows.
 
 ## Game Save
 * [SPUD](https://github.com/sinbad/SPUD) - Steve's Persistent Unreal Data library
