@@ -339,6 +339,7 @@ Load images into Unreal at runtime without hitches
 * [LocalizationUE4](https://github.com/rionix/LocalizationUE4) - Translation Editor for Unreal Engine 4
 * [UnrealVersionChanger](https://github.com/Gradess2019/UnrealVersionChanger) - Simple tool for faking UE version for Epic Games Store so we can install outdated / non-upgraded plugins to newer UE version without installing old UE
 * [Nuke.Unreal](https://github.com/microdee/Nuke.Unreal) - C# scriptable workflow for automating Unreal Engine project tasks embracing the [Nuke](https://nuke.build) target graph and fluent API tool bindings.
+* [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
 
 ## Tweens / Object Movements
 * [Fresh Cooked Tweens](https://github.com/jdcook/fresh_cooked_tweens) - A tweening library for Unreal Engine that provide convenient curve equations to ease a value between a start and end, like a position, scale, color, anything you want to smoothly change. 
