@@ -47,6 +47,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Ability System
 * [RemAbilityUtility](https://github.com/RemRemRemRe/RemAbilityUtility) - Utilities for gameplay ability system
+* [Artillery](https://github.com/OversizedSunCoreDev/ArtilleryEco) - Determinism, abilities, threaded input processing, and state management primitives married to a core set of basic tools used to bind to a weapon, character, entity, effect, or actor in a compositional and elegant way.
 
 ## AI
 * [BTUtilityPlugin](https://github.com/kamrann/BTUtilityPlugin) - Extension to engine behavior tree system, adding utility-based selection nodes - Plugin version
