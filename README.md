@@ -4,10 +4,12 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 - [Ability System](#ability-system)
 - [AI](#ai)
 - [Anti Cheat / Cheat](#anti-cheat--cheat)
+- [Build Tools and CI](#build-tools-and-ci)
 - [Camera](#camera)
 - [Character Movement](#character-movement)
 - [Controller](#controller)
 - [Pawn](#pawn)
+- [Physic](#physic)
 - [Plugin](#plugin)
 - [Data Exporter](#data-exporter)
 - [Database Connector](#database-connector)
@@ -59,6 +61,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [SCUE5-Plugin](https://github.com/BrUnOXaVIeRLeiTE/SCUE5-Plugin) - SCUE updated to Unreal 5.
 * [Meta Cheat Manager](https://github.com/JanSeliv/MetaCheatManager) - A plugin that allows to call cheats with custom meta names from the console command.
 
+## Build Tools and CI
+* [game-ci](https://github.com/game-ci) - Open-source CI/CD tooling covering Unreal Engine (via RunUAT/BuildCookRun against your own licensed image), Unity, and Godot: GitHub Actions, a multi-provider build orchestrator (self-hosted, AWS, Kubernetes, and more), and a CLI.
+
 ## Camera
 * [Advanced-Camera-Manager](https://github.com/oivio/Advanced-Camera-Manager) - Advanced Player Camera Component
 * [Editor-Camera-Position](https://github.com/zompi2/EditorCameraPositionUE4) - Editor plugin for convenient control of camera position in the editor view
@@ -80,6 +85,9 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 ## Pawn
 * [Pawn](https://github.com/BoredEngineer/MMT_Plugin) - Machinery Modelling Toolkit (Plugin for UE4)
 * [Morphs Player](https://github.com/JanSeliv/MorphsPlayer) - A plugin that allows to play Morph Targets directly on the animation track of your skeletal mesh.
+
+## Physic
+* [Box3DUnreal](https://github.com/alattanzio/Box3DUnreal) - Box3DUnreal: Box3D Physics for Unreal Engine
 
 ## Plugin
 * [PsWebServer](https://github.com/PushkinStudio/PsWebServer) - Civet web server integration plugin for Unreal Engine 4
@@ -341,7 +349,6 @@ Load images into Unreal at runtime without hitches
 * [UnrealVersionChanger](https://github.com/Gradess2019/UnrealVersionChanger) - Simple tool for faking UE version for Epic Games Store so we can install outdated / non-upgraded plugins to newer UE version without installing old UE
 * [Nuke.Unreal](https://github.com/microdee/Nuke.Unreal) - C# scriptable workflow for automating Unreal Engine project tasks embracing the [Nuke](https://nuke.build) target graph and fluent API tool bindings.
 * [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
-* [game-ci](https://github.com/game-ci) - Open-source CI/CD tooling covering Unreal Engine (via RunUAT/BuildCookRun against your own licensed image), Unity, and Godot: GitHub Actions, a multi-provider build orchestrator (self-hosted, AWS, Kubernetes, and more), and a CLI.
 
 ## Tweens / Object Movements
 * [Fresh Cooked Tweens](https://github.com/jdcook/fresh_cooked_tweens) - A tweening library for Unreal Engine that provide convenient curve equations to ease a value between a start and end, like a position, scale, color, anything you want to smoothly change. 
