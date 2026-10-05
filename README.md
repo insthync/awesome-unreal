@@ -186,6 +186,7 @@ Load images into Unreal at runtime without hitches
 ## Localization
 * [UE4-BYGLocalization](https://github.com/BraceYourselfGames/UE4-BYGLocalization) - Simple CSV localization system for Unreal Engine 4
 * [Easy Localization Tool](https://github.com/zompi2/UE4EasyLocalizationTool) - Introduces a way simpler method of localizing game by simply importing CSV file into engine's localization files.
+* [LocHub](https://github.com/DmVergasov/LocHub) - AI-assisted localization in the editor: translate with your own AI provider or a local model, auto-check format arguments and plural forms, review, and pull back into Unreal's archives (UE 5.6–5.8; source-available, free for non-commercial use)
 
 ## Machine Learning
 * [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) - TensorFlow plugin for Unreal Engine 4
