@@ -352,6 +352,7 @@ Load images into Unreal at runtime without hitches
 * [UnrealVersionChanger](https://github.com/Gradess2019/UnrealVersionChanger) - Simple tool for faking UE version for Epic Games Store so we can install outdated / non-upgraded plugins to newer UE version without installing old UE
 * [Nuke.Unreal](https://github.com/microdee/Nuke.Unreal) - C# scriptable workflow for automating Unreal Engine project tasks embracing the [Nuke](https://nuke.build) target graph and fluent API tool bindings.
 * [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
+* [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game development (art, audio, code, production).
 * [micromegas](https://github.com/madesroches/micromegas) - Complete observability stack for UE5: instrumentation plugin, ingestion, SQL analytics and Grafana/notebook dashboards for logs, metrics and traces.
 
 ## Tweens / Object Movements
