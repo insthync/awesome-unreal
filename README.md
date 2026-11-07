@@ -236,6 +236,7 @@ Load images into Unreal at runtime without hitches
 
 ## Physics
 * [UnrealJolt](https://github.com/Yadhu-S/UnrealJolt) - Jolt physics integration (Plugin) for Unreal Engine 5 (UE5)
+* [MallangPhysics](https://github.com/wjsekrud/MallangPhysics) - Soft body plugin for UE 5.6-5.8: hands and objects dent, bulge and drag skeletal and static meshes, and the flesh jiggles, computed on the GPU (MIT)
 
 ## Project templates
 * [Nano](https://github.com/pfist/Nano) - A tiny template for tiny Unreal games.
