@@ -125,6 +125,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 * [RemEditorUtilities](https://github.com/RemRemRemRe/RemEditorUtilities) - Utilities for editor customization
 * [Function Picker](https://github.com/JanSeliv/FunctionPicker) - a plugin that allows to choose a function right in the property from any blueprint or asset.
 * [UEAgent](https://github.com/CarlxsMG/UEAgent) - MCP server built into the editor: 2,000+ tools that let AI agents like Claude Code create and edit Blueprints, materials, levels, Niagara and animation, with every change read back and verified.
+* [Asset to Text](https://sidewalk.reelary.app/asset-to-text/) - Free editor plugin: right-click Blueprints or Data Tables and copy them as Markdown text (graphs as pseudo-code in execution order, tables as Markdown tables) to paste into a chat or a coding agent. UE 5.6-5.8, Windows and macOS.
 
 ## Effects
 * [UE4-AuroraEffect](https://github.com/Hideous/UE4-AuroraEffect) - A raymarched aurora borealis effect for Unreal 4
