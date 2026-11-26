@@ -357,6 +357,7 @@ Load images into Unreal at runtime without hitches
 * [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
 * [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game development (art, audio, code, production).
 * [micromegas](https://github.com/madesroches/micromegas) - Complete observability stack for UE5: instrumentation plugin, ingestion, SQL analytics and Grafana/notebook dashboards for logs, metrics and traces.
+* [Mint Polycount Checker](https://mint.gg/polycount-checker) - Free in-browser GLB/glTF triangle, vertex, draw-call, texture-memory and file-size counter with per-platform budget verdicts, useful before importing assets into Unreal Engine.
 
 ## Tweens / Object Movements
 * [Fresh Cooked Tweens](https://github.com/jdcook/fresh_cooked_tweens) - A tweening library for Unreal Engine that provide convenient curve equations to ease a value between a start and end, like a position, scale, color, anything you want to smoothly change. 
