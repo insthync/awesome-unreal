@@ -64,6 +64,7 @@ A categorized collection of awesome opensource Unreal Engine 4 repos
 
 ## Build Tools and CI
 * [game-ci](https://github.com/game-ci) - Open-source CI/CD tooling covering Unreal Engine (via RunUAT/BuildCookRun against your own licensed image), Unity, and Godot: GitHub Actions, a multi-provider build orchestrator (self-hosted, AWS, Kubernetes, and more), and a CLI.
+* [ue5-doctor](https://github.com/argoness-prime/ue5-doctor) - Command-line analyzer for Unreal Engine 5.4-5.9 UBT, UAT, and Cook logs; maps `LNK2019`/`LNK2001` errors to missing `Build.cs` modules, flags memory-heavy `DefaultEngine.ini` settings, and checks `.uproject` plugin bloat.
 
 ## Camera
 * [Advanced-Camera-Manager](https://github.com/oivio/Advanced-Camera-Manager) - Advanced Player Camera Component
